@@ -9,51 +9,100 @@
  */
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
+    "image_with_text_overlay_9cMQ3G": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
         "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "image": "shopify://shop_images/Untitled_design_2.png",
+        "mobile_image": "shopify://shop_images/Untitled_design_2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_Fa9YAz": {
-      "type": "image-with-text-overlay",
+    "logo_list_k9XdGL": {
+      "type": "logo-list",
       "blocks": {
-        "heading_C9CWWg": {
-          "type": "heading",
+        "logo_cNEjkq": {
+          "type": "logo",
           "settings": {
-            "text": "Prenez soin de vos cheveux, où que vous soyez.",
-            "heading_tag": "h2"
+            "logo": "shopify://shop_images/elle_magazine-removebg-preview.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_nVRLy6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/obl-removebg-preview.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_MzjPaa": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/SHE-removebg-preview_1.png",
+            "logo_width": 300,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_C9CWWg"
+        "logo_cNEjkq",
+        "logo_nVRLy6",
+        "logo_MzjPaa"
       ],
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_design_5.jpg",
-        "mobile_image": "shopify://shop_images/Untitled_design_5.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#0b0a0a",
-        "overlay_color": "#e1d5d5",
-        "overlay_opacity": 18
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "vue sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_UUEcjc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_t9Hpnn": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Brio ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_t9Hpnn"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
   "order": [
-    "slideshow",
-    "image_with_text_overlay_Fa9YAz"
+    "image_with_text_overlay_9cMQ3G",
+    "logo_list_k9XdGL",
+    "rich_text_UUEcjc"
   ]
 }
