@@ -34,12 +34,20 @@
             "text": "paiement 100% sécurisé",
             "url": ""
           }
+        },
+        "message_7mfLWE": {
+          "type": "message",
+          "settings": {
+            "text": "satisfait ou remboursé",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_NNW7K3",
         "message_K6fT7d",
-        "message_ReVAhN"
+        "message_ReVAhN",
+        "message_7mfLWE"
       ],
       "settings": {
         "enable_sticky": true,
