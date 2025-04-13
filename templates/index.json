@@ -135,12 +135,70 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "rich_text_PRYWhg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dX379j": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat avant/après",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_dX379j"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_WHnAmd": {
+      "type": "video",
+      "blocks": {
+        "play_PVQKE4": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_aknpPg": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_PVQKE4",
+        "heading_aknpPg"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "md",
+        "video": "shopify://files/videos/ssstik.io_@eyesensecare_1744566596180.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image_with_text_overlay_9cMQ3G",
     "logo_list_k9XdGL",
     "rich_text_UUEcjc",
-    "image_with_text_overlay_LizVp7"
+    "image_with_text_overlay_LizVp7",
+    "rich_text_PRYWhg",
+    "video_WHnAmd"
   ]
 }
