@@ -11,13 +11,25 @@
   "sections": {
     "image_with_text_overlay_9cMQ3G": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_Pti7mw": {
+          "type": "heading",
+          "settings": {
+            "text": "Le geste discret pour une peau nette",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Pti7mw"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_design_7.jpg",
-        "mobile_image": "shopify://shop_images/Untitled_design_7.jpg",
+        "image": "shopify://shop_images/istockphoto-1309405105-612x612.jpg",
+        "mobile_image": "shopify://shop_images/istockphoto-1309405105-612x612.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -55,7 +67,7 @@
         "logo_6a6nNK": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telechargement-removebg-preview.png",
+            "logo": "shopify://shop_images/telechargement_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -127,8 +139,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/de_colagene.jpg",
-        "mobile_image": "shopify://shop_images/de_colagene.jpg",
+        "image": "shopify://shop_images/11_9ec24f4d-6539-4492-bedf-deaf7b45ed93.webp",
+        "mobile_image": "shopify://shop_images/11_9ec24f4d-6539-4492-bedf-deaf7b45ed93.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -142,7 +154,7 @@
         "heading_dX379j": {
           "type": "heading",
           "settings": {
-            "text": "Résultat avant/après",
+            "text": "Résultat de notre marque",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -177,8 +189,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "md",
-        "video": "shopify://files/videos/ssstik.io_@eyesensecare_1744566596180.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
