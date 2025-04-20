@@ -34,7 +34,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 44
+        "overlay_opacity": 16
       }
     },
     "logo_list_k9XdGL": {
@@ -154,7 +154,7 @@
         "heading_dX379j": {
           "type": "heading",
           "settings": {
-            "text": "Résultat de notre marque",
+            "text": "Résultat Avant/Après",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -188,7 +188,8 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "md",
+        "video_size": "sm",
+        "video": "shopify://files/videos/202504201340 (1).mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -201,10 +202,11 @@
         "item_g8GXcy": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "image": "shopify://shop_images/Untitled_design_10.jpg",
+            "column_size": "4",
+            "title": "ANNE D.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>J'étais un peu sceptique au début, mais franchement, ce patch anti-acné a changé la donne pour moi. J'ai commencé à l'utiliser pendant la nuit, et je suis vraiment impressionnée par les résultats. Il est super discret, on le remarque à peine, et il reste bien en place, même quand je bouge beaucoup.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -213,10 +215,11 @@
         "item_AxmXhA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_9.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "ELISE B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>J'ai testé ce patch anti-acné un peu par curiosité et je dois dire que je suis agréablement surprise ! Je l'ai utilisé sur un bouton qui commençait à bien m'ennuyer, et le lendemain matin, il était beaucoup moins visible. C’est vraiment rapide et efficace. Ce que j'adore, c’est qu’il est totalement discret – on peut même le porter sous le maquillage sans que ça se voit, donc super pratique au quotidien.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -225,10 +228,24 @@
         "item_QwyyJf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_11.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "MATHIEU D.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Super patch anti-boutons, j'ai essayer plusieurs marques et ceux-là sont très bien, ils adhèrent bien à la peau et le prix n'est pas excessif.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8qKTQh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_12.jpg",
+            "column_size": "3",
+            "title": "BENJAMIN A.",
+            "heading_tag": "h4",
+            "content": "<p>J’adore ses patchs, ils m’ont changé la vie. Souvent j’ai des boutons assez gros à cause de la pollution de dehors etc. et avec ses patchs si je le mets la nuit le lendemain le bouton n’est plus infecté et après il part en un jour après OK c’est un peu cher, mais franchement ça vaut le coup.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -238,17 +255,18 @@
       "block_order": [
         "item_g8GXcy",
         "item_AxmXhA",
-        "item_QwyyJf"
+        "item_QwyyJf",
+        "item_8qKTQh"
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
         "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
