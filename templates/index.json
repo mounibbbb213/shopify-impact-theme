@@ -267,10 +267,11 @@
         "item_Lz7gG9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_15.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "CHARLES B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Nous recevons un paquet de 36 patchs de nuit de forme ronde, à mettre sur un seul bouton. Les patchs sont faits pour être portés la nuit afin d’absorber le liquide des boutons blancs et éviter de les tripoter et qu’ils s’infectent par la suite. Le patch absorbe très bien les impuretés du bouton mais il ne faut pas s’attendre à ce que le bouton disparaisse du jour au lendemain. Quand on enlève le patch il y a toujours le bouton mais vidé, il est rouge et il faut le laisser cicatriser. Les patchs sont bien, l’emballage est aussi bien fait car il est aussi en français, derrière il y a les explications simples sur l’utilisation des patchs.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
