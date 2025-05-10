@@ -20,7 +20,7 @@
           "type": "heading",
           "settings": {
             "text": "Offrez à votre peau l’éclat qu’elle mérite",
-            "heading_tag": "h3"
+            "heading_tag": "h1"
           }
         }
       },
@@ -38,7 +38,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 25
+        "overlay_opacity": 35
       }
     }
   },
