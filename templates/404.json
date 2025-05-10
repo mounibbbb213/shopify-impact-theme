@@ -377,6 +377,53 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "tabs_DqDH7t": {
+      "type": "tabs",
+      "blocks": {
+        "tab_YKNGMJ": {
+          "type": "tab",
+          "settings": {
+            "title": "caractéristique",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_MUbCKN": {
+          "type": "tab",
+          "settings": {
+            "title": "livraison gratuite à domicile",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_xt678k": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_YKNGMJ",
+        "tab_MUbCKN",
+        "tab_xt678k"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -389,6 +436,7 @@
     "video_9knYyr",
     "multi_column_Egc93M",
     "featured_product_xjEKWm",
-    "custom_liquid_ay94aJ"
+    "custom_liquid_ay94aJ",
+    "tabs_DqDH7t"
   ]
 }
