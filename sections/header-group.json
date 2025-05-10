@@ -13,42 +13,6 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "blocks": {
-        "message_NNW7K3": {
-          "type": "message",
-          "settings": {
-            "text": "offre printemps limités -50%",
-            "url": ""
-          }
-        },
-        "message_K6fT7d": {
-          "type": "message",
-          "settings": {
-            "text": "Livraison gratuite",
-            "url": ""
-          }
-        },
-        "message_ReVAhN": {
-          "type": "message",
-          "settings": {
-            "text": "paiement 100% sécurisé",
-            "url": ""
-          }
-        },
-        "message_7mfLWE": {
-          "type": "message",
-          "settings": {
-            "text": "satisfait ou remboursé",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "message_NNW7K3",
-        "message_K6fT7d",
-        "message_ReVAhN",
-        "message_7mfLWE"
-      ],
       "settings": {
         "enable_sticky": true,
         "text_size": "text-xs",
@@ -64,7 +28,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/BRIO.png",
         "logo_max_width": 230,
         "logo_mobile_max_width": 85,
         "menu": "main-menu",
