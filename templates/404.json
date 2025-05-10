@@ -91,7 +91,7 @@
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
-        "background": "#d4e8fc",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -112,7 +112,7 @@
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "animate_impact_text_duration": 2.9
           }
         }
       },
@@ -127,7 +127,7 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "#c0d3e7",
+        "background": "",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
@@ -151,6 +151,226 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_9MJYTy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6rH7kT": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat avant/après",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6rH7kT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_9knYyr": {
+      "type": "video",
+      "blocks": {
+        "play_RQence": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_him7m8": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_RQence",
+        "heading_him7m8"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multi_column_Egc93M": {
+      "type": "multi-column",
+      "blocks": {
+        "item_paVEir": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-05-10_213251256.png",
+            "column_size": "3",
+            "title": "Sophie, 22 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>J’utilise ce sérum depuis deux semaines et ma peau n’a jamais été aussi lumineuse ! Il pénètre rapidement, ne colle pas, et mon teint est visiblement plus uniforme. Une vraie révélation dans ma routine soin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_daFgn3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-05-10_214742043.png",
+            "column_size": "3",
+            "title": "Camille, 19 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>Ce sérum a complètement changé l’aspect de ma peau. Mes petites ridules se sont estompées et ma peau est beaucoup plus douce et hydratée. Je ne peux plus m’en passer !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Q9TcwM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-05-10_215015486.png",
+            "column_size": "3",
+            "title": "Claire, 27 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>J’avais la peau terne et déshydratée, mais ce sérum a fait des merveilles dès la première semaine. Mon teint est plus frais, plus éclatant… C’est devenu mon indispensable !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_paVEir",
+        "item_daFgn3",
+        "item_Q9TcwM"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Déjà adoptés par celles qui veulent une peau éclatante.",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_xjEKWm": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_Cbq39m": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_CtMqY3": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_gyzfR9": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_igTyLg": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_NKdjA4": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_9XxMBg": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_9wmcbV": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_WWehdn": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_qix4nA": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_wAyNyb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_BexYwP": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_Cbq39m",
+        "title_CtMqY3",
+        "badges_gyzfR9",
+        "price_igTyLg",
+        "rating_NKdjA4",
+        "separator_9XxMBg",
+        "description_9wmcbV",
+        "variant_picker_WWehdn",
+        "quantity_selector_qix4nA",
+        "buy_buttons_wAyNyb",
+        "pickup_availability_BexYwP"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -158,6 +378,10 @@
     "image_with_text_overlay_dWAQXw",
     "logo_list_mjabgG",
     "impact_text_9KKBxT",
-    "image_with_text_overlay_7zRqNQ"
+    "image_with_text_overlay_7zRqNQ",
+    "rich_text_9MJYTy",
+    "video_9knYyr",
+    "multi_column_Egc93M",
+    "featured_product_xjEKWm"
   ]
 }
