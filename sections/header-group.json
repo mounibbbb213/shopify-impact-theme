@@ -13,6 +13,26 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "blocks": {
+        "message_iJxA9m": {
+          "type": "message",
+          "settings": {
+            "text": "paiement 100% sécurisé",
+            "url": ""
+          }
+        },
+        "message_iwbAKC": {
+          "type": "message",
+          "settings": {
+            "text": "livraison gratuite",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_iJxA9m",
+        "message_iwbAKC"
+      ],
       "settings": {
         "enable_sticky": true,
         "text_size": "text-xs",

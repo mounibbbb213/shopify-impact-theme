@@ -38,12 +38,72 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 35
+        "overlay_opacity": 30
+      }
+    },
+    "logo_list_mjabgG": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_LWLPgV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_aK6xtM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre_3.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jQLLwa": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre_2.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4yn9HU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_LWLPgV",
+        "logo_aK6xtM",
+        "logo_jQLLwa",
+        "logo_4yn9HU"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     }
   },
   "order": [
     "main",
-    "image_with_text_overlay_dWAQXw"
+    "image_with_text_overlay_dWAQXw",
+    "logo_list_mjabgG"
   ]
 }
