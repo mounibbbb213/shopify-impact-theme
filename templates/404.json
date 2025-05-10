@@ -11,7 +11,11 @@
   "sections": {
     "main": {
       "type": "main-not-found",
-      "custom_css": [],
+      "custom_css": [
+        ".explorer-btn {background-color: #5c6bc0; color: white; padding: 12px 30px; border-radius: 30px; font-size: 1rem; text-transform: uppercase; font-weight: bold; text-decoration: none; transition: background-color 0.3s, transform 0.3s;}",
+        ".explorer-btn:hover {background-color: #ffb400; transform: scale(1.05);}",
+        ".explorer-btn:active {background-color: #3e4d92; transform: scale(1);}"
+      ],
       "name": "SF-BEAUTY",
       "settings": {}
     },
