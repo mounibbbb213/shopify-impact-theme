@@ -38,9 +38,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 18,
-        "background": "#000000",
+        "background": "#9dacba",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#1a1a1a"
       }
     },
     "header": {
@@ -64,7 +64,7 @@
         "show_country_name": false,
         "transparent_header_text_color": "#121010",
         "reduce_padding": false,
-        "background_opacity": 39,
+        "background_opacity": 0,
         "background_blur_radius": 20
       }
     }
