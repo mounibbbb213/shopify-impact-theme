@@ -380,7 +380,7 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Laisser un Avis</title>\n  <style>\n    body {\n      font-family: 'Segoe UI', sans-serif;\n      background: #f8f8f8;\n      color: #333;\n      padding: 30px;\n    }\n\n    .container {\n      max-width: 800px;\n      margin: auto;\n      background: #fff;\n      padding: 30px;\n      border-radius: 8px;\n      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n    }\n\n    h2 {\n      text-align: center;\n      color: #333;\n    }\n\n    .form-group {\n      margin-bottom: 20px;\n    }\n\n    input[type=\"text\"],",
-        "background": "",
+        "background": "#cab587",
         "background_gradient": "",
         "text_color": ""
       }
