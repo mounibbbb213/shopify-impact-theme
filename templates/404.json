@@ -20,7 +20,7 @@
           "type": "heading",
           "settings": {
             "text": "Offrez à votre peau l’éclat qu’elle mérite",
-            "heading_tag": "h2"
+            "heading_tag": "h1"
           }
         }
       },
@@ -71,7 +71,7 @@
         "logo_4yn9HU": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Ajouter_un_titre.png",
+            "logo": "shopify://shop_images/image_2025-05-10_204520307.png",
             "logo_width": 120,
             "link": ""
           }
@@ -135,12 +135,29 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "image_with_text_overlay_7zRqNQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Ajouter_un_titre_5.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_dWAQXw",
     "logo_list_mjabgG",
-    "impact_text_9KKBxT"
+    "impact_text_9KKBxT",
+    "image_with_text_overlay_7zRqNQ"
   ]
 }
