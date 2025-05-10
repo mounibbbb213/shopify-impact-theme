@@ -379,7 +379,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"review-container\">\n    <h3>Évaluez ce produit</h3>\n    <div class=\"stars\">\n        <span class=\"star\" data-value=\"1\">&#9733;</span>\n        <span class=\"star\" data-value=\"2\">&#9733;</span>\n        <span class=\"star\" data-value=\"3\">&#9733;</span>\n        <span class=\"star\" data-value=\"4\">&#9733;</span>\n        <span class=\"star\" data-value=\"5\">&#9733;</span>\n    </div>\n    <textarea id=\"review-text\" placeholder=\"Laissez votre avis...\"></textarea>\n    <button class=\"submit-review\">Soumettre l'avis</button>\n</div>",
+        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Laisser un commentaire</title>\n  <style>\n    body { font-family: Arial, sans-serif; padding: 20px; }\n    .comment-box { margin-bottom: 20px; }\n    .comment { border-bottom: 1px solid #ddd; margin-bottom: 10px; padding-bottom: 10px; }\n  </style>\n</head>\n<body>\n\n  <h2>Laisser un commentaire</h2>\n  <div class=\"comment-box\">\n    <input type=\"text\" id=\"name\" placeholder=\"Votre nom\" style=\"width: 200px;\"><br><br>\n    <textarea id=\"comment\" placeholder=\"Votre commentaire\" rows=\"4\"",
         "background": "",
         "background_gradient": "",
         "text_color": ""
