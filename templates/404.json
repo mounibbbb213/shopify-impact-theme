@@ -99,11 +99,48 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "impact_text_9KKBxT": {
+      "type": "impact-text",
+      "blocks": {
+        "item_DWWN4f": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Et si le secret d’une peau éclatante résidait simplement dans votre sérum",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_DWWN4f"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_dWAQXw",
-    "logo_list_mjabgG"
+    "logo_list_mjabgG",
+    "impact_text_9KKBxT"
   ]
 }
