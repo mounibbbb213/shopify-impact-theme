@@ -330,6 +330,10 @@
         "pickup_availability_BexYwP": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "parcel_panel_app_JgwCA6": {
+          "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+          "settings": {}
         }
       },
       "block_order": [
@@ -341,7 +345,8 @@
         "quantity_selector_qix4nA",
         "kaching_bundles_app_block_QtcYct",
         "buy_buttons_wAyNyb",
-        "pickup_availability_BexYwP"
+        "pickup_availability_BexYwP",
+        "parcel_panel_app_JgwCA6"
       ],
       "name": "Featured product",
       "settings": {
