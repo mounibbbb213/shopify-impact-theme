@@ -42,9 +42,9 @@
         "image": "shopify://shop_images/femme-belle-peau-visage.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#f1e0e0",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 13
       }
     },
     "logo_list_mjabgG": {
