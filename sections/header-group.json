@@ -49,7 +49,7 @@
         "enable_sticky": false,
         "hide_on_scroll": true,
         "logo": "shopify://shop_images/LOGO.png",
-        "logo_max_width": 205,
+        "logo_max_width": 240,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
         "sidebar_menu": "",
