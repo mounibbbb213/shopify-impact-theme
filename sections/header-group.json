@@ -17,21 +17,21 @@
         "message_iJxA9m": {
           "type": "message",
           "settings": {
-            "text": "paiement 100% sécurisé",
+            "text": "Paiement 100% sécurisé",
             "url": ""
           }
         },
         "message_iwbAKC": {
           "type": "message",
           "settings": {
-            "text": "livraison gratuite",
+            "text": "Livraison gratuite",
             "url": ""
           }
         },
         "message_W4hUFa": {
           "type": "message",
           "settings": {
-            "text": "offre limités -60%",
+            "text": "Offre limités -60%",
             "url": ""
           }
         }
