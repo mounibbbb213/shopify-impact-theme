@@ -296,12 +296,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price_igTyLg": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating_NKdjA4": {
           "type": "rating",
           "settings": {
@@ -346,7 +340,6 @@
         "vendor_Cbq39m",
         "title_CtMqY3",
         "badges_gyzfR9",
-        "price_igTyLg",
         "rating_NKdjA4",
         "separator_9XxMBg",
         "quantity_selector_qix4nA",
