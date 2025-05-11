@@ -27,11 +27,19 @@
             "text": "livraison gratuite",
             "url": ""
           }
+        },
+        "message_W4hUFa": {
+          "type": "message",
+          "settings": {
+            "text": "offre limités -60%",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_iJxA9m",
-        "message_iwbAKC"
+        "message_iwbAKC",
+        "message_W4hUFa"
       ],
       "settings": {
         "enable_sticky": true,
