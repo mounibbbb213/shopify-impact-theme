@@ -1,0 +1,514 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "custom_css": [
+        ".explorer-btn {background-color: #5c6bc0; color: white; padding: 12px 30px; border-radius: 30px; font-size: 1rem; text-transform: uppercase; font-weight: bold; text-decoration: none; transition: background-color 0.3s, transform 0.3s;}",
+        ".explorer-btn:hover {background-color: #ffb400; transform: scale(1.05);}",
+        ".explorer-btn:active {background-color: #3e4d92; transform: scale(1);}"
+      ],
+      "name": "SF-BEAUTY",
+      "settings": {}
+    },
+    "image_with_text_overlay_dWAQXw": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_Xttm83": {
+          "type": "heading",
+          "settings": {
+            "text": "Offrez à votre peau l’éclat qu’elle mérite",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xttm83"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/femme-belle-peau-visage.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "logo_list_mjabgG": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_LWLPgV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_aK6xtM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre_3.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jQLLwa": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Ajouter_un_titre_2.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4yn9HU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_2025-05-10_204520307.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_LWLPgV",
+        "logo_aK6xtM",
+        "logo_jQLLwa",
+        "logo_4yn9HU"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "impact_text_9KKBxT": {
+      "type": "impact-text",
+      "blocks": {
+        "item_DWWN4f": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Et si le secret d’une peau éclatante résidait simplement dans votre sérum",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2.9
+          }
+        }
+      },
+      "block_order": [
+        "item_DWWN4f"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_7zRqNQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Ajouter_un_titre_5.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_9MJYTy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6rH7kT": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat avant/après",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6rH7kT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_9knYyr": {
+      "type": "video",
+      "blocks": {
+        "play_RQence": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_him7m8": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_RQence",
+        "heading_him7m8"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multi_column_Egc93M": {
+      "type": "multi-column",
+      "blocks": {
+        "item_paVEir": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-05-10_213251256.png",
+            "column_size": "3",
+            "title": "Sophie, 22 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>J’utilise ce sérum depuis deux semaines et ma peau n’a jamais été aussi lumineuse ! Il pénètre rapidement, ne colle pas, et mon teint est visiblement plus uniforme. Une vraie révélation dans ma routine soin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_daFgn3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-05-10_214742043.png",
+            "column_size": "3",
+            "title": "Camille, 19 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>Ce sérum a complètement changé l’aspect de ma peau. Mes petites ridules se sont estompées et ma peau est beaucoup plus douce et hydratée. Je ne peux plus m’en passer !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Q9TcwM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-05-10_215015486.png",
+            "column_size": "3",
+            "title": "Claire, 27 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>J’avais la peau terne et déshydratée, mais ce sérum a fait des merveilles dès la première semaine. Mon teint est plus frais, plus éclatant… C’est devenu mon indispensable !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_paVEir",
+        "item_daFgn3",
+        "item_Q9TcwM"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Déjà adoptés par celles qui veulent une peau éclatante.",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_xjEKWm": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_Cbq39m": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_CtMqY3": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_gyzfR9": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_igTyLg": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_NKdjA4": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_9XxMBg": {
+          "type": "separator",
+          "settings": {}
+        },
+        "quantity_selector_qix4nA": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_wAyNyb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_BexYwP": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_Cbq39m",
+        "title_CtMqY3",
+        "badges_gyzfR9",
+        "price_igTyLg",
+        "rating_NKdjA4",
+        "separator_9XxMBg",
+        "quantity_selector_qix4nA",
+        "buy_buttons_wAyNyb",
+        "pickup_availability_BexYwP"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "custom_liquid_ay94aJ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Évaluation du produit</title>\n  <style>\n    /* Styles de base */\n    .star-rating {\n      display: flex;\n      gap: 5px;\n      cursor: pointer;\n    }\n    .star-rating svg {\n      width: 40px;\n      height: 40px;\n      fill: #e0e0e0;\n      transition: fill 0.2s;\n    }\n    .star-rating svg.active,\n    .star-rating svg:hover,\n    .star-rating svg:hover ~ svg {\n      fill: #FFD700;\n    }\n    .rating-display {\n      margin-top: 10px;\n    }\n    .review-form {\n      margin-top: 20px;\n    }\n    .review-form input, .review-form textarea {\n      width: 100%;\n      padding: 10px;\n      margin: 10px 0;\n      border-radius: 5px;\n      border: 1px solid #ddd;\n    }\n    .review-form button {\n      padding: 10px 20px;\n      background-color: #FFD700;\n      border: none;\n      border-radius: 5px;\n      cursor: pointer;\n    }\n    .review-form button:hover {\n      background-color: #ffcc00;\n    }\n  </style>\n  <script src=\"https://code.jquery.com/jquery-3.6.0.min.js\"></script>\n</head>\n<body>\n  <div class=\"container\">\n    <h2>Évaluez ce produit</h2>\n\n    <!-- Étoiles de notation -->\n    <div class=\"star-rating\" data-rating=\"0\">\n      <svg data-value=\"1\" viewBox=\"0 0 20 20\"><polygon points=\"10,1 12.6,6.9 19,7.6 14,12.3 15.2,18.5 10,15.3 4.8,18.5 6,12.3 1,7.6 7.4,6.9\"/></svg>\n      <svg data-value=\"2\" viewBox=\"0 0 20 20\"><polygon points=\"10,1 12.6,6.9 19,7.6 14,12.3 15.2,18.5 10,15.3 4.8,18.5 6,12.3 1,7.6 7.4,6.9\"/></svg>\n      <svg data-value=\"3\" viewBox=\"0 0 20 20\"><polygon points=\"10,1 12.6,6.9 19,7.6 14,12.3 15.2,18.5 10,15.3 4.8,18.5 6,12.3 1,7.6 7.4,6.9\"/></svg>\n      <svg data-value=\"4\" viewBox=\"0 0 20 20\"><polygon points=\"10,1 12.6,6.9 19,7.6 14,12.3 15.2,18.5 10,15.3 4.8,18.5 6,12.3 1,7.6 7.4,6.9\"/></svg>\n      <svg data-value=\"5\" viewBox=\"0 0 20 20\"><polygon points=\"10,1 12.6,6.9 19,7.6 14,12.3 15.2,18.5 10,15.3 4.8,18.5 6,12.3 1,7.6 7.4,6.9\"/></svg>\n    </div>\n\n    <!-- Affichage de la note -->\n    <div class=\"rating-display\" id=\"rating-display\">0/5</div>\n\n    <!-- Formulaire pour le commentaire -->\n    <div class=\"review-form\">\n      <textarea id=\"comment\" rows=\"4\" placeholder=\"Laissez un commentaire (facultatif)\"></textarea>\n      <button id=\"submit-review\">Soumettre l'avis</button>\n    </div>\n  </div>\n\n  <script>\n    const stars = document.querySelectorAll('.star-rating svg');\n    const container = document.querySelector('.star-rating');\n    const ratingDisplay = document.getElementById('rating-display');\n    const submitButton = document.getElementById('submit-review');\n    let ratingValue = 0;\n\n    // Fonction pour survoler les étoiles et afficher la note en temps réel\n    stars.forEach((star) => {\n      star.addEventListener('mouseover', () => {\n        let val = parseInt(star.dataset.value);\n        highlightStars(val);\n      });\n\n      star.addEventListener('mouseout', () => {\n        resetStars();\n      });\n\n      star.addEventListener('click', () => {\n        ratingValue = parseInt(star.dataset.value);\n        container.setAttribute('data-rating', ratingValue);\n        highlightStars(ratingValue);\n        ratingDisplay.textContent = `${ratingValue}/5`;\n      });\n    });\n\n    // Met en surbrillance les étoiles\n    function highlightStars(rating) {\n      stars.forEach((s) => {\n        s.classList.remove('active');\n        if (parseInt(s.dataset.value) <= rating) {\n          s.classList.add('active');\n        }\n      });\n    }\n\n    // Réinitialise les étoiles à la note actuelle\n    function resetStars() {\n      highlightStars(ratingValue);\n    }\n\n    // Fonction pour envoyer l'avis via AJAX\n    submitButton.addEventListener('click', () => {\n      const comment = document.getElementById('comment').value;\n      if (ratingValue === 0) {\n        alert(\"Veuillez sélectionner une note.\");\n        return;\n      }\n\n      // Appel AJAX pour envoyer la note et le commentaire à Shopify\n      $.ajax({\n        url: '/apps/reviews/save',  // Remplacer par l'URL du point d'API de Shopify ou de ton application\n        type: 'POST',\n        data: {\n          rating: ratingValue,\n          comment: comment,\n          product_id: '1234567890'  // Remplace par l'ID du produit actuel\n        },\n        success: function(response) {\n          console.log('Avis enregistré', response);\n          alert('Merci pour votre avis !');\n          // Réinitialiser le formulaire\n          resetStars();\n          document.getElementById('comment').value = '';\n        },\n        error: function(xhr, status, error) {\n          console.error('Erreur lors de l\\'envoi de l\\'avis:', error);\n          alert('Une erreur est survenue lors de l\\'envoi de votre avis.');\n        }\n      });\n    });\n  </script>\n</body>\n</html>",
+        "background": "#fff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "tabs_DqDH7t": {
+      "type": "tabs",
+      "blocks": {
+        "tab_YKNGMJ": {
+          "type": "tab",
+          "settings": {
+            "title": "caractéristique",
+            "content": "<p><br/>Notre sérum pour le visage se distingue par sa texture légère et soyeuse qui pénètre rapidement dans la peau, sans laisser de film gras. Grâce à sa haute concentration en actifs, il cible efficacement les besoins spécifiques de la peau, comme l’hydratation, l’éclat ou encore les premiers signes de l’âge. Formulé à base d’ingrédients naturels, non comédogène et testé dermatologiquement, il respecte même les peaux les plus sensibles. Enrichi en acide hyaluronique, il apporte une hydratation intense et durable, tout en laissant la peau visiblement plus douce, plus lisse et plus lumineuse. Conçu sans parabènes, sans silicones ni sulfates, et présenté dans un packaging recyclable, ce sérum s’intègre parfaitement dans une routine de soin clean, efficace et respectueuse de la peau comme de l’environnement. Il convient à tous les types de peau, qu’elles soient sèches, grasses, mixtes ou matures.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_MUbCKN": {
+          "type": "tab",
+          "settings": {
+            "title": "livraison gratuite à domicile",
+            "content": "<p><strong>La livraison est offerte sur toutes vos commandes !</strong> Peu importe le montant de votre panier, nous vous offrons la livraison, pour que vous puissiez profiter de vos produits beauté sans contrainte. Commandez dès maintenant et faites-vous plaisir !\"</p>",
+            "page": ""
+          }
+        },
+        "tab_xt678k": {
+          "type": "tab",
+          "settings": {
+            "title": "Conditions d’utilisation",
+            "content": "<p><br/>En utilisant notre site, vous acceptez nos conditions d’utilisation. Nous vous conseillons de les lire attentivement avant de passer commande. Ces conditions régissent l’utilisation de notre site ainsi que l’achat de nos produits. Si vous avez des questions, n’hésitez pas à nous contacter. Nous nous engageons à vous offrir une expérience d’achat agréable et transparente.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_YKNGMJ",
+        "tab_MUbCKN",
+        "tab_xt678k"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_LyV9M9": {
+      "type": "faq",
+      "blocks": {
+        "item_ibJhUU": {
+          "type": "item",
+          "settings": {
+            "title": "Comment appliquer un sérum pour le visage ?",
+            "content": "<p>Appliquez votre sérum sur une peau propre et sèche, en utilisant quelques gouttes que vous tapoterez doucement sur le visage et le cou. Massez délicatement pour permettre une meilleure absorption. Il est recommandé de l’appliquer avant votre crème de jour ou de nuit pour de meilleurs résultats.<br/><br/></p>"
+          }
+        },
+        "item_KQ7N8D": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Les délais de livraison varient entre 3 et 7 jours ouvrés en fonction de votre emplacement. Vous recevrez un email de confirmation d’expédition avec un numéro de suivi dès que votre commande sera en route.<br/><br/></p>"
+          }
+        },
+        "item_LRcdbF": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je contacter le service client ?",
+            "content": "<p><br/>Pour toute question ou demande, vous pouvez nous contacter par email à shopfamilly69@gmail.com ou via notre page <strong>Contact</strong>. Nous nous efforçons de répondre dans les plus brefs délais.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ibJhUU",
+        "item_KQ7N8D",
+        "item_LRcdbF"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_fLBz9A": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "contactez-nous",
+        "title": "Vous avez des questions ?",
+        "content": "<p><strong>Vous avez une question ?</strong><br/><br/>Nous sommes là pour vous aider ! Que ce soit sur nos produits, la livraison ou votre commande, n’hésitez pas à consulter notre FAQ ou à nous contacter directement. Nous ferons de notre mieux pour répondre à toutes vos interrogations.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "#f0f0f0",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#f0c417",
+        "button_text_color": "#000000"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_dWAQXw",
+    "logo_list_mjabgG",
+    "impact_text_9KKBxT",
+    "image_with_text_overlay_7zRqNQ",
+    "rich_text_9MJYTy",
+    "video_9knYyr",
+    "multi_column_Egc93M",
+    "featured_product_xjEKWm",
+    "custom_liquid_ay94aJ",
+    "tabs_DqDH7t",
+    "faq_LyV9M9",
+    "contact_fLBz9A"
+  ]
+}
