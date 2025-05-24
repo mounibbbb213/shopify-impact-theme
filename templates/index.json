@@ -208,6 +208,19 @@
     "multi_column_Egc93M": {
       "type": "multi-column",
       "blocks": {
+        "item_AhdgLC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_4.png",
+            "column_size": "3",
+            "title": "Naya, 19 ans",
+            "heading_tag": "h4",
+            "content": "<p><br/>J’utilise ce sérum depuis une quinzaine de jours et je vois déjà une nette différence. Ma peau est plus éclatante, plus souple, et mon teint semble plus uniforme. Il s’applique facilement, ne laisse aucun résidu collant, et procure une vraie sensation de fraîcheur. Un vrai coup de cœur que je compte garder dans ma routine !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_paVEir": {
           "type": "item",
           "settings": {
@@ -226,7 +239,7 @@
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_3.png",
             "column_size": "3",
-            "title": "Monique 54",
+            "title": "Monique, 54",
             "heading_tag": "h4",
             "content": "<p><br/>Depuis que j’utilise ce sérum, ma peau paraît plus ferme et mes rides sont moins marquées. Il pénètre bien et laisse une sensation de douceur. Même mes proches m’ont dit que j’avais bonne mine. Je le recommande vivement !<br/><br/></p>",
             "link_url": "",
@@ -259,13 +272,27 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_a7Diip": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
+        "item_AhdgLC",
         "item_paVEir",
         "item_cGrYBw",
         "item_daFgn3",
-        "item_Q9TcwM"
+        "item_Q9TcwM",
+        "item_a7Diip"
       ],
       "name": "Multi-column",
       "settings": {
@@ -312,12 +339,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_QtcYct": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_wAyNyb": {
           "type": "buy_buttons",
           "settings": {
@@ -345,7 +366,6 @@
         "rating_NKdjA4",
         "separator_9XxMBg",
         "quantity_selector_qix4nA",
-        "kaching_bundles_app_block_QtcYct",
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
         "parcel_panel_app_JgwCA6"
