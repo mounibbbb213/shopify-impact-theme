@@ -335,40 +335,6 @@
           "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
           "settings": {}
         },
-        "judge_me_reviews_review_widget_homepage_GgqTL7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care"
-          }
-        },
-        "judge_me_reviews_featured_carousel_K7hENA": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        },
-        "judge_me_reviews_all_reviews_text_3x9gA7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
-        "judge_me_reviews_medals_jBDMn6": {
-          "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
-        "judge_me_reviews_preview_badge_homepage_xjMYcV": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": ""
-          }
-        },
-        "judge_me_reviews_ugc_media_grid_Mi6MDA": {
-          "type": "shopify://apps/judge-me-reviews/blocks/ugc_media_grid/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
-        "judge_me_reviews_verified_badge_QLVEFi": {
-          "type": "shopify://apps/judge-me-reviews/blocks/verified_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
         "pickup_availability_BexYwP": {
           "type": "pickup_availability",
           "settings": {}
@@ -389,13 +355,6 @@
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
         "c_edd_estimated_delivery_date_delivery_coder_theme_xidMHh",
-        "judge_me_reviews_review_widget_homepage_GgqTL7",
-        "judge_me_reviews_featured_carousel_K7hENA",
-        "judge_me_reviews_all_reviews_text_3x9gA7",
-        "judge_me_reviews_medals_jBDMn6",
-        "judge_me_reviews_preview_badge_homepage_xjMYcV",
-        "judge_me_reviews_ugc_media_grid_Mi6MDA",
-        "judge_me_reviews_verified_badge_QLVEFi",
         "pickup_availability_BexYwP",
         "parcel_panel_app_JgwCA6"
       ],
