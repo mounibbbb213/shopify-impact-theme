@@ -21,25 +21,13 @@
     },
     "image_with_text_overlay_dWAQXw": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_Xttm83": {
-          "type": "heading",
-          "settings": {
-            "text": "Offrez à votre peau l’éclat qu’elle mérite",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xttm83"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/femme-belle-peau-visage.jpg",
+        "image": "shopify://shop_images/une_peau_pas_assez_hydratee_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fffdfd",
