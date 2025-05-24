@@ -346,6 +346,12 @@
             "moonbundle_selected_product": "{{section.settings.product}}"
           }
         },
+        "countdown_timer_essential_app_block_9xYQ7m": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
         "buy_buttons_wAyNyb": {
           "type": "buy_buttons",
           "settings": {
@@ -386,6 +392,7 @@
         "separator_9XxMBg",
         "quantity_selector_qix4nA",
         "moon_bundle_app_block_CrQhEA",
+        "countdown_timer_essential_app_block_9xYQ7m",
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
         "loox_reviews_loox_agg_section_JTpd98",
