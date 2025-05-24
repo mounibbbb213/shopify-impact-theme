@@ -331,10 +331,6 @@
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
         },
-        "pickup_availability_BexYwP": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
         "parcel_panel_app_JgwCA6": {
           "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
           "settings": {}
@@ -350,7 +346,6 @@
         "kaching_bundles_app_block_QtcYct",
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
-        "pickup_availability_BexYwP",
         "parcel_panel_app_JgwCA6"
       ],
       "name": "Featured product",
