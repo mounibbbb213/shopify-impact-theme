@@ -396,7 +396,7 @@
         "full_width": true,
         "product": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "grid",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "dots",
         "enable_video_autoplay": true,
