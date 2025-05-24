@@ -358,6 +358,18 @@
         "parcel_panel_app_JgwCA6": {
           "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
           "settings": {}
+        },
+        "loox_reviews_loox_agg_section_JTpd98": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": true,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
         }
       },
       "block_order": [
@@ -369,7 +381,8 @@
         "quantity_selector_qix4nA",
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
-        "parcel_panel_app_JgwCA6"
+        "parcel_panel_app_JgwCA6",
+        "loox_reviews_loox_agg_section_JTpd98"
       ],
       "name": "Featured product",
       "settings": {
