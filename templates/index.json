@@ -340,16 +340,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "fbp_fast_bundle_all_bundles_DL8ENJ": {
-          "type": "shopify://apps/fbp-fast-bundle/blocks/all_bundles/9e87fbe2-9041-4c23-acf5-322413994cef",
-          "settings": {}
-        },
-        "fbp_fast_bundle_bundle_with_ids_AxMCVY": {
-          "type": "shopify://apps/fbp-fast-bundle/blocks/bundle_with_ids/9e87fbe2-9041-4c23-acf5-322413994cef",
-          "settings": {
-            "bundle_ids": ""
-          }
-        },
         "buy_buttons_wAyNyb": {
           "type": "buy_buttons",
           "settings": {
@@ -359,6 +349,16 @@
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "#edcea0",
             "payment_button_text_color": "#edcea0"
+          }
+        },
+        "fbp_fast_bundle_all_bundles_U7DBdV": {
+          "type": "shopify://apps/fbp-fast-bundle/blocks/all_bundles/9e87fbe2-9041-4c23-acf5-322413994cef",
+          "settings": {}
+        },
+        "fbp_fast_bundle_bundle_with_ids_DxqLPb": {
+          "type": "shopify://apps/fbp-fast-bundle/blocks/bundle_with_ids/9e87fbe2-9041-4c23-acf5-322413994cef",
+          "settings": {
+            "bundle_ids": ""
           }
         },
         "conversion_bear_trust_badges_widget_r3NRfT": {
@@ -377,9 +377,9 @@
         "rating_NKdjA4",
         "separator_9XxMBg",
         "quantity_selector_qix4nA",
-        "fbp_fast_bundle_all_bundles_DL8ENJ",
-        "fbp_fast_bundle_bundle_with_ids_AxMCVY",
         "buy_buttons_wAyNyb",
+        "fbp_fast_bundle_all_bundles_U7DBdV",
+        "fbp_fast_bundle_bundle_with_ids_DxqLPb",
         "conversion_bear_trust_badges_widget_r3NRfT",
         "parcel_panel_app_JgwCA6"
       ],
