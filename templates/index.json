@@ -276,10 +276,11 @@
         "item_a7Diip": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Camille, 23 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>Peau plus lisse, teint éclatant en deux semaines à peine ! Le sérum est léger, agréable et ne colle pas. Un vrai indispensable dans ma routine.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
