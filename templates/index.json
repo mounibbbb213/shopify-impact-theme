@@ -327,6 +327,10 @@
             "payment_button_text_color": "#edcea0"
           }
         },
+        "conversion_bear_trust_badges_widget_r3NRfT": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "pickup_availability_BexYwP": {
           "type": "pickup_availability",
           "settings": {}
@@ -345,6 +349,7 @@
         "quantity_selector_qix4nA",
         "kaching_bundles_app_block_QtcYct",
         "buy_buttons_wAyNyb",
+        "conversion_bear_trust_badges_widget_r3NRfT",
         "pickup_availability_BexYwP",
         "parcel_panel_app_JgwCA6"
       ],
