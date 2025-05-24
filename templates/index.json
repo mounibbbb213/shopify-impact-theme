@@ -331,10 +331,6 @@
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
         },
-        "c_edd_estimated_delivery_date_delivery_coder_theme_xidMHh": {
-          "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
-          "settings": {}
-        },
         "pickup_availability_BexYwP": {
           "type": "pickup_availability",
           "settings": {}
@@ -354,7 +350,6 @@
         "kaching_bundles_app_block_QtcYct",
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
-        "c_edd_estimated_delivery_date_delivery_coder_theme_xidMHh",
         "pickup_availability_BexYwP",
         "parcel_panel_app_JgwCA6"
       ],
