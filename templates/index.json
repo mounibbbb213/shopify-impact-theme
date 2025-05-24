@@ -32,7 +32,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fffdfd",
         "overlay_color": "#000000",
-        "overlay_opacity": 7
+        "overlay_opacity": 19
       }
     },
     "logo_list_mjabgG": {
@@ -138,7 +138,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_760003d4-ee80-41d9-af6f-82bc2f63e1da.png",
+        "image": "shopify://shop_images/Ajouter_un_titre_3_71739d11-ef84-41e7-a555-2737801f994e.png",
         "mobile_image": "shopify://shop_images/Ajouter_un_titre_760003d4-ee80-41d9-af6f-82bc2f63e1da.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -211,11 +211,24 @@
         "item_paVEir": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_2025-05-10_213251256.png",
+            "image": "shopify://shop_images/Design_sans_titre_1.png",
             "column_size": "3",
-            "title": "Sophie, 22 ans",
+            "title": "Sophie, 32 ans",
             "heading_tag": "h4",
             "content": "<p><br/>J’utilise ce sérum depuis deux semaines et ma peau n’a jamais été aussi lumineuse ! Il pénètre rapidement, ne colle pas, et mon teint est visiblement plus uniforme. Une vraie révélation dans ma routine soin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cGrYBw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_3.png",
+            "column_size": "3",
+            "title": "Monique 54",
+            "heading_tag": "h4",
+            "content": "<p><br/>Depuis que j’utilise ce sérum, ma peau paraît plus ferme et mes rides sont moins marquées. Il pénètre bien et laisse une sensation de douceur. Même mes proches m’ont dit que j’avais bonne mine. Je le recommande vivement !<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -224,9 +237,9 @@
         "item_daFgn3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_2025-05-10_214742043.png",
+            "image": "shopify://shop_images/image_2025-05-24_163622294.png",
             "column_size": "3",
-            "title": "Camille, 19 ans",
+            "title": "Camille, 22 ans",
             "heading_tag": "h4",
             "content": "<p><br/>Ce sérum a complètement changé l’aspect de ma peau. Mes petites ridules se sont estompées et ma peau est beaucoup plus douce et hydratée. Je ne peux plus m’en passer !<br/><br/></p>",
             "link_url": "",
@@ -237,9 +250,9 @@
         "item_Q9TcwM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_2025-05-10_215015486.png",
+            "image": "shopify://shop_images/image_2025-05-24_163705104.png",
             "column_size": "3",
-            "title": "Claire, 27 ans",
+            "title": "Claire, 35 ans",
             "heading_tag": "h4",
             "content": "<p><br/>J’avais la peau terne et déshydratée, mais ce sérum a fait des merveilles dès la première semaine. Mon teint est plus frais, plus éclatant… C’est devenu mon indispensable !<br/><br/></p>",
             "link_url": "",
@@ -250,6 +263,7 @@
       },
       "block_order": [
         "item_paVEir",
+        "item_cGrYBw",
         "item_daFgn3",
         "item_Q9TcwM"
       ],
