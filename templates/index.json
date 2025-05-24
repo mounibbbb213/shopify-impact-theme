@@ -28,6 +28,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/une_peau_pas_assez_hydratee_1.png",
+        "mobile_image": "shopify://shop_images/une_peau_pas_assez_hydratee.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fffdfd",
