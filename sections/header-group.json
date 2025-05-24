@@ -72,8 +72,8 @@
         "show_country_name": true,
         "transparent_header_text_color": "#121010",
         "reduce_padding": true,
-        "background_opacity": 100,
-        "background_blur_radius": 20
+        "background_opacity": 0,
+        "background_blur_radius": 0
       }
     }
   },
