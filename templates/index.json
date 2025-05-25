@@ -356,7 +356,7 @@
         "countdown_timer_essential_app_block_9xYQ7m": {
           "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
-            "id": "Timer name"
+            "id": "715c91ca-74bb-4507-94e3-5d3b6c74ca73"
           }
         },
         "buy_buttons_wAyNyb": {
@@ -379,11 +379,11 @@
           "settings": {
             "only_photos": false,
             "hide_thumbnails": true,
-            "product_handle": "",
+            "product_handle": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
             "aggregated": true,
             "data-limit": 20,
             "maxwidth": 1080,
-            "is_sample": true
+            "is_sample": false
           }
         },
         "parcel_panel_app_JgwCA6": {
@@ -431,7 +431,7 @@
         "item_gHjLxy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_3_b0a370de-12ce-43b7-a416-3ac3b475ab3b.png",
+            "image": "shopify://shop_images/Design_sans_titre_b23f6a9f-3193-477e-b50a-0d8942e8195e.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -446,9 +446,9 @@
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
             "column_size": "3",
-            "title": "Gel d’aloe vera",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Très riche en eau et en nutriments, l’aloe vera est un <strong>puissant hydratant naturel</strong>. Il calme les inflammations, les rougeurs, les boutons, et aide à la régénération de la peau. Idéal pour tous les types de peau, surtout <strong>sensible ou acnéique</strong>.<br/><br/></p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -457,7 +457,6 @@
         "item_ihee6p": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_4_8c41cf6a-3aab-463f-90e2-d739ef5980ed.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
