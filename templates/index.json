@@ -431,7 +431,7 @@
         "item_gHjLxy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_b23f6a9f-3193-477e-b50a-0d8942e8195e.png",
+            "image": "shopify://shop_images/Design_sans_titre_3_b0a370de-12ce-43b7-a416-3ac3b475ab3b.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -446,9 +446,9 @@
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Gel d’aloe vera",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Très riche en eau et en nutriments, l’aloe vera est un <strong>puissant hydratant naturel</strong>. Il calme les inflammations, les rougeurs, les boutons, et aide à la régénération de la peau. Idéal pour tous les types de peau, surtout <strong>sensible ou acnéique</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -457,6 +457,7 @@
         "item_ihee6p": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_4_8c41cf6a-3aab-463f-90e2-d739ef5980ed.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
