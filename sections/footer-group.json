@@ -13,6 +13,18 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "links_aFNHL7": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        }
+      },
+      "block_order": [
+        "links_aFNHL7"
+      ],
       "custom_css": [],
       "settings": {
         "show_social_media": true,
