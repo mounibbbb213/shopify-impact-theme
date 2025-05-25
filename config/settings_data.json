@@ -66,6 +66,11 @@
         "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
+      },
+      "7040418038501983048": {
+        "type": "shopify://apps/hoppy-countdown/blocks/countdown_bar/93eb8092-0277-478d-8423-36c86e36287e",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
