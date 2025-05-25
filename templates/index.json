@@ -425,6 +425,67 @@
         "input_text_color": ""
       }
     },
+    "multi_column_rxfdEP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_gHjLxy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_b23f6a9f-3193-477e-b50a-0d8942e8195e.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3CU4VY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ihee6p": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_gHjLxy",
+        "item_3CU4VY",
+        "item_ihee6p"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_fLBz9A": {
       "type": "contact",
       "name": "Contact form",
@@ -573,6 +634,7 @@
     "video_9knYyr",
     "multi_column_Egc93M",
     "featured_product_xjEKWm",
+    "multi_column_rxfdEP",
     "contact_fLBz9A",
     "tabs_DqDH7t",
     "faq_LyV9M9",
