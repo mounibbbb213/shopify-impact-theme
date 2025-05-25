@@ -27,13 +27,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/une_peau_pas_assez_hydratee_1.png",
-        "mobile_image": "shopify://shop_images/une_peau_pas_assez_hydratee.png",
+        "image": "shopify://shop_images/une_peau_pas_assez_hydratee_1_0e4d5be1-68f0-4b41-90eb-b9a802c59c2e.png",
+        "mobile_image": "shopify://shop_images/une_peau_pas_assez_hydratee_1_0e4d5be1-68f0-4b41-90eb-b9a802c59c2e.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fffdfd",
         "overlay_color": "#000000",
-        "overlay_opacity": 11
+        "overlay_opacity": 0
       }
     },
     "logo_list_mjabgG": {
@@ -310,68 +310,6 @@
         "text_color": ""
       }
     },
-    "multi_column_rxfdEP": {
-      "type": "multi-column",
-      "blocks": {
-        "item_gHjLxy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_3_b0a370de-12ce-43b7-a416-3ac3b475ab3b.png",
-            "column_size": "3",
-            "title": "Acide hyaluronique",
-            "heading_tag": "h4",
-            "content": "<p>C’est un ingrédient star pour l’hydratation et l’<strong>effet repulpant</strong>. Il agit comme une éponge qui retient jusqu’à 1000 fois son poids en eau. Il lisse les ridules, améliore l’élasticité et donne un aspect \"peau rebondie\".<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3CU4VY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
-            "column_size": "3",
-            "title": "Gel d’aloe vera",
-            "heading_tag": "h4",
-            "content": "<p>Très riche en eau et en nutriments, l’aloe vera est un <strong>puissant hydratant naturel</strong>. Il calme les inflammations, les rougeurs, les boutons, et aide à la régénération de la peau. Idéal pour tous les types de peau, surtout <strong>sensible ou acnéique</strong>.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ihee6p": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_4_8c41cf6a-3aab-463f-90e2-d739ef5980ed.png",
-            "column_size": "3",
-            "title": "Vitamine E",
-            "heading_tag": "h4",
-            "content": "<p>C’est un <strong>antioxydant puissant</strong>. Elle protège les huiles végétales de l’oxydation (elles rancissent moins vite) et <strong>protège la peau contre les agressions extérieures</strong> (pollution, soleil, etc.).Elle a aussi une action anti-âge et réparatrice.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_gHjLxy",
-        "item_3CU4VY",
-        "item_ihee6p"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Ingrédients testés cliniquement",
-        "content": "",
-        "background": "#ede6ce",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_xjEKWm": {
       "type": "featured-product",
       "blocks": {
@@ -485,6 +423,68 @@
         "text_color": "",
         "input_background": "#ede9dd",
         "input_text_color": ""
+      }
+    },
+    "multi_column_rxfdEP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_gHjLxy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_3_b0a370de-12ce-43b7-a416-3ac3b475ab3b.png",
+            "column_size": "3",
+            "title": "Acide hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>C’est un ingrédient star pour l’hydratation et l’<strong>effet repulpant</strong>. Il agit comme une éponge qui retient jusqu’à 1000 fois son poids en eau. Il lisse les ridules, améliore l’élasticité et donne un aspect \"peau rebondie\".<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3CU4VY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
+            "column_size": "3",
+            "title": "Gel d’aloe vera",
+            "heading_tag": "h4",
+            "content": "<p>Très riche en eau et en nutriments, l’aloe vera est un <strong>puissant hydratant naturel</strong>. Il calme les inflammations, les rougeurs, les boutons, et aide à la régénération de la peau. Idéal pour tous les types de peau, surtout <strong>sensible ou acnéique</strong>.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ihee6p": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_4_8c41cf6a-3aab-463f-90e2-d739ef5980ed.png",
+            "column_size": "3",
+            "title": "Vitamine E",
+            "heading_tag": "h4",
+            "content": "<p>C’est un <strong>antioxydant puissant</strong>. Elle protège les huiles végétales de l’oxydation (elles rancissent moins vite) et <strong>protège la peau contre les agressions extérieures</strong> (pollution, soleil, etc.).Elle a aussi une action anti-âge et réparatrice.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_gHjLxy",
+        "item_3CU4VY",
+        "item_ihee6p"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "contact_fLBz9A": {
@@ -634,8 +634,8 @@
     "rich_text_9MJYTy",
     "video_9knYyr",
     "multi_column_Egc93M",
-    "multi_column_rxfdEP",
     "featured_product_xjEKWm",
+    "multi_column_rxfdEP",
     "contact_fLBz9A",
     "tabs_DqDH7t",
     "faq_LyV9M9",
