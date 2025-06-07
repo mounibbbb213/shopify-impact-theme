@@ -27,13 +27,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_1_6affc435-df70-4fd5-948f-69c8a6384a4e.png",
+        "image": "shopify://shop_images/une_peau_pas_assez_hydratee_421ca274-70dd-43c4-bb09-04bba3055495.png",
         "mobile_image": "shopify://shop_images/image_1_6affc435-df70-4fd5-948f-69c8a6384a4e.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fffdfd",
         "overlay_color": "#000000",
-        "overlay_opacity": 13
+        "overlay_opacity": 0
       }
     },
     "logo_list_mjabgG": {
@@ -139,8 +139,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_3_71739d11-ef84-41e7-a555-2737801f994e.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre_1_ad910384-9930-4337-b32b-58c0c50dd8f9.png",
+        "image": "shopify://shop_images/Ajouter_un_titre_862f438b-125e-4817-b935-801a7678ba5e.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_862f438b-125e-4817-b935-801a7678ba5e.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -471,7 +471,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
+        "product": "lot-de-serum",
         "desktop_media_width": 55,
         "desktop_media_layout": "grid",
         "mobile_media_size": "expanded",
