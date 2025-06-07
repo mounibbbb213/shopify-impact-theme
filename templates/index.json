@@ -486,7 +486,7 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
-        "background": "#f0eae0",
+        "background": "#f4ebdd",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -550,7 +550,7 @@
         "subheading": "",
         "title": "Ingrédients testés cliniquement",
         "content": "",
-        "background": "#f0eae0",
+        "background": "#f4ebdd",
         "background_gradient": "",
         "text_color": ""
       }
@@ -597,7 +597,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#f0eae0",
+        "background": "#f4ebdd",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
