@@ -446,53 +446,6 @@
         "button_text_color": "#000000"
       }
     },
-    "tabs_DqDH7t": {
-      "type": "tabs",
-      "blocks": {
-        "tab_YKNGMJ": {
-          "type": "tab",
-          "settings": {
-            "title": "caractéristique",
-            "content": "<p><br/>Notre sérum pour le visage se distingue par sa texture légère et soyeuse qui pénètre rapidement dans la peau, sans laisser de film gras. Grâce à sa haute concentration en actifs, il cible efficacement les besoins spécifiques de la peau, comme l’hydratation, l’éclat ou encore les premiers signes de l’âge. Formulé à base d’ingrédients naturels, non comédogène et testé dermatologiquement, il respecte même les peaux les plus sensibles. Enrichi en acide hyaluronique, il apporte une hydratation intense et durable, tout en laissant la peau visiblement plus douce, plus lisse et plus lumineuse. Conçu sans parabènes, sans silicones ni sulfates, et présenté dans un packaging recyclable, ce sérum s’intègre parfaitement dans une routine de soin clean, efficace et respectueuse de la peau comme de l’environnement. Il convient à tous les types de peau, qu’elles soient sèches, grasses, mixtes ou matures.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_MUbCKN": {
-          "type": "tab",
-          "settings": {
-            "title": "livraison gratuite à domicile",
-            "content": "<p><strong>La livraison est offerte sur toutes vos commandes !</strong> Peu importe le montant de votre panier, nous vous offrons la livraison, pour que vous puissiez profiter de vos produits beauté sans contrainte. Commandez dès maintenant et faites-vous plaisir !\"</p>",
-            "page": ""
-          }
-        },
-        "tab_xt678k": {
-          "type": "tab",
-          "settings": {
-            "title": "Conditions d’utilisation",
-            "content": "<p><br/>En utilisant notre site, vous acceptez nos conditions d’utilisation. Nous vous conseillons de les lire attentivement avant de passer commande. Ces conditions régissent l’utilisation de notre site ainsi que l’achat de nos produits. Si vous avez des questions, n’hésitez pas à nous contacter. Nous nous engageons à vous offrir une expérience d’achat agréable et transparente.<br/><br/></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_YKNGMJ",
-        "tab_MUbCKN",
-        "tab_xt678k"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "#f3ede5",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_rxfdEP": {
       "type": "multi-column",
       "blocks": {
@@ -553,6 +506,53 @@
         "background": "#f3ede5",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "tabs_DqDH7t": {
+      "type": "tabs",
+      "blocks": {
+        "tab_YKNGMJ": {
+          "type": "tab",
+          "settings": {
+            "title": "caractéristique",
+            "content": "<p><br/>Notre sérum pour le visage se distingue par sa texture légère et soyeuse qui pénètre rapidement dans la peau, sans laisser de film gras. Grâce à sa haute concentration en actifs, il cible efficacement les besoins spécifiques de la peau, comme l’hydratation, l’éclat ou encore les premiers signes de l’âge. Formulé à base d’ingrédients naturels, non comédogène et testé dermatologiquement, il respecte même les peaux les plus sensibles. Enrichi en acide hyaluronique, il apporte une hydratation intense et durable, tout en laissant la peau visiblement plus douce, plus lisse et plus lumineuse. Conçu sans parabènes, sans silicones ni sulfates, et présenté dans un packaging recyclable, ce sérum s’intègre parfaitement dans une routine de soin clean, efficace et respectueuse de la peau comme de l’environnement. Il convient à tous les types de peau, qu’elles soient sèches, grasses, mixtes ou matures.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_MUbCKN": {
+          "type": "tab",
+          "settings": {
+            "title": "livraison gratuite à domicile",
+            "content": "<p><strong>La livraison est offerte sur toutes vos commandes !</strong> Peu importe le montant de votre panier, nous vous offrons la livraison, pour que vous puissiez profiter de vos produits beauté sans contrainte. Commandez dès maintenant et faites-vous plaisir !\"</p>",
+            "page": ""
+          }
+        },
+        "tab_xt678k": {
+          "type": "tab",
+          "settings": {
+            "title": "Conditions d’utilisation",
+            "content": "<p><br/>En utilisant notre site, vous acceptez nos conditions d’utilisation. Nous vous conseillons de les lire attentivement avant de passer commande. Ces conditions régissent l’utilisation de notre site ainsi que l’achat de nos produits. Si vous avez des questions, n’hésitez pas à nous contacter. Nous nous engageons à vous offrir une expérience d’achat agréable et transparente.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_YKNGMJ",
+        "tab_MUbCKN",
+        "tab_xt678k"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "#f3ede5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq_LyV9M9": {
@@ -634,10 +634,10 @@
     "rich_text_9MJYTy",
     "video_9knYyr",
     "multi_column_Egc93M",
+    "multi_column_rxfdEP",
     "featured_product_xjEKWm",
     "contact_fLBz9A",
     "tabs_DqDH7t",
-    "multi_column_rxfdEP",
     "faq_LyV9M9",
     "17481118440baba45b"
   ]
