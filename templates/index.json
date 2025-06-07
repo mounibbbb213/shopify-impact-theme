@@ -139,7 +139,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_862f438b-125e-4817-b935-801a7678ba5e.png",
+        "image": "shopify://shop_images/Ajouter_un_titre-Photoroom.png",
         "mobile_image": "shopify://shop_images/Ajouter_un_titre_862f438b-125e-4817-b935-801a7678ba5e.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -471,7 +471,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
+        "product": "lot-de-serum",
         "desktop_media_width": 55,
         "desktop_media_layout": "grid",
         "mobile_media_size": "expanded",
@@ -485,33 +485,6 @@
         "text_color": "",
         "input_background": "#ede9dd",
         "input_text_color": ""
-      }
-    },
-    "1749333486b59deeb2": {
-      "type": "apps",
-      "blocks": {
-        "hoppy_countdown_countdown_bar_block_ef9cac": {
-          "type": "shopify://apps/hoppy-countdown/blocks/countdown_bar_block/93eb8092-0277-478d-8423-36c86e36287e",
-          "settings": {
-            "countdownbar-id": "715c91ca-74bb-4507-94e3-5d3b6c74ca73"
-          }
-        }
-      },
-      "block_order": [
-        "hoppy_countdown_countdown_bar_block_ef9cac"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
       }
     },
     "contact_fLBz9A": {
@@ -663,7 +636,6 @@
     "multi_column_Egc93M",
     "multi_column_rxfdEP",
     "featured_product_xjEKWm",
-    "1749333486b59deeb2",
     "contact_fLBz9A",
     "tabs_DqDH7t",
     "faq_LyV9M9",
