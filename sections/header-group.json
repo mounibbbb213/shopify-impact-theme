@@ -34,20 +34,12 @@
             "text": "Offre limités -50% sur le prix classique",
             "url": ""
           }
-        },
-        "message_RXiPHE": {
-          "type": "message",
-          "settings": {
-            "text": "offre limités pour la fête des mère",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message_iJxA9m",
         "message_iwbAKC",
-        "message_W4hUFa",
-        "message_RXiPHE"
+        "message_W4hUFa"
       ],
       "settings": {
         "enable_sticky": true,
