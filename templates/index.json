@@ -27,7 +27,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_1_6affc435-df70-4fd5-948f-69c8a6384a4e.png",
+        "image": "shopify://shop_images/une_peau_pas_assez_hydratee_1_0e4d5be1-68f0-4b41-90eb-b9a802c59c2e.png",
         "mobile_image": "shopify://shop_images/une_peau_pas_assez_hydratee_1_0e4d5be1-68f0-4b41-90eb-b9a802c59c2e.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -139,8 +139,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre-Photoroom.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre_862f438b-125e-4817-b935-801a7678ba5e.png",
+        "image": "shopify://shop_images/Ajouter_un_titre_3_71739d11-ef84-41e7-a555-2737801f994e.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_1_ad910384-9930-4337-b32b-58c0c50dd8f9.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -514,7 +514,7 @@
         "tab_YKNGMJ": {
           "type": "tab",
           "settings": {
-            "title": "caractéristique",
+            "title": "Caractéristiques",
             "content": "<p><br/>Notre sérum pour le visage se distingue par sa texture légère et soyeuse qui pénètre rapidement dans la peau, sans laisser de film gras. Grâce à sa haute concentration en actifs, il cible efficacement les besoins spécifiques de la peau, comme l’hydratation, l’éclat ou encore les premiers signes de l’âge. Formulé à base d’ingrédients naturels, non comédogène et testé dermatologiquement, il respecte même les peaux les plus sensibles. Enrichi en acide hyaluronique, il apporte une hydratation intense et durable, tout en laissant la peau visiblement plus douce, plus lisse et plus lumineuse. Conçu sans parabènes, sans silicones ni sulfates, et présenté dans un packaging recyclable, ce sérum s’intègre parfaitement dans une routine de soin clean, efficace et respectueuse de la peau comme de l’environnement. Il convient à tous les types de peau, qu’elles soient sèches, grasses, mixtes ou matures.<br/><br/></p>",
             "page": ""
           }
@@ -522,7 +522,7 @@
         "tab_MUbCKN": {
           "type": "tab",
           "settings": {
-            "title": "livraison gratuite à domicile",
+            "title": "Livraison gratuite à domicile",
             "content": "<p><strong>La livraison est offerte sur toutes vos commandes !</strong> Peu importe le montant de votre panier, nous vous offrons la livraison, pour que vous puissiez profiter de vos produits beauté sans contrainte. Commandez dès maintenant et faites-vous plaisir !\"</p>",
             "page": ""
           }
