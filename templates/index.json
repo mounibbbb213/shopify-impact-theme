@@ -425,68 +425,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_rxfdEP": {
-      "type": "multi-column",
-      "blocks": {
-        "item_gHjLxy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_3_b0a370de-12ce-43b7-a416-3ac3b475ab3b.png",
-            "column_size": "3",
-            "title": "Acide hyaluronique",
-            "heading_tag": "h4",
-            "content": "<p>C’est un ingrédient star pour l’hydratation et l’<strong>effet repulpant</strong>. Il agit comme une éponge qui retient jusqu’à 1000 fois son poids en eau. Il lisse les ridules, améliore l’élasticité et donne un aspect \"peau rebondie\".<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3CU4VY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
-            "column_size": "3",
-            "title": "Gel d’aloe vera",
-            "heading_tag": "h4",
-            "content": "<p>Très riche en eau et en nutriments, l’aloe vera est un <strong>puissant hydratant naturel</strong>. Il calme les inflammations, les rougeurs, les boutons, et aide à la régénération de la peau. Idéal pour tous les types de peau, surtout <strong>sensible ou acnéique</strong>.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ihee6p": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_4_8c41cf6a-3aab-463f-90e2-d739ef5980ed.png",
-            "column_size": "3",
-            "title": "Vitamine E",
-            "heading_tag": "h4",
-            "content": "<p>C’est un <strong>antioxydant puissant</strong>. Elle protège les huiles végétales de l’oxydation (elles rancissent moins vite) et <strong>protège la peau contre les agressions extérieures</strong> (pollution, soleil, etc.).Elle a aussi une action anti-âge et réparatrice.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_gHjLxy",
-        "item_3CU4VY",
-        "item_ihee6p"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Ingrédients testés cliniquement",
-        "content": "",
-        "background": "#f0eae0",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "contact_fLBz9A": {
       "type": "contact",
       "name": "Contact form",
@@ -553,6 +491,68 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "multi_column_rxfdEP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_gHjLxy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_3_b0a370de-12ce-43b7-a416-3ac3b475ab3b.png",
+            "column_size": "3",
+            "title": "Acide hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>C’est un ingrédient star pour l’hydratation et l’<strong>effet repulpant</strong>. Il agit comme une éponge qui retient jusqu’à 1000 fois son poids en eau. Il lisse les ridules, améliore l’élasticité et donne un aspect \"peau rebondie\".<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3CU4VY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_2_93c90ab6-80d7-48bc-91d6-165fd0ea33c6.png",
+            "column_size": "3",
+            "title": "Gel d’aloe vera",
+            "heading_tag": "h4",
+            "content": "<p>Très riche en eau et en nutriments, l’aloe vera est un <strong>puissant hydratant naturel</strong>. Il calme les inflammations, les rougeurs, les boutons, et aide à la régénération de la peau. Idéal pour tous les types de peau, surtout <strong>sensible ou acnéique</strong>.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ihee6p": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_4_8c41cf6a-3aab-463f-90e2-d739ef5980ed.png",
+            "column_size": "3",
+            "title": "Vitamine E",
+            "heading_tag": "h4",
+            "content": "<p>C’est un <strong>antioxydant puissant</strong>. Elle protège les huiles végétales de l’oxydation (elles rancissent moins vite) et <strong>protège la peau contre les agressions extérieures</strong> (pollution, soleil, etc.).Elle a aussi une action anti-âge et réparatrice.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_gHjLxy",
+        "item_3CU4VY",
+        "item_ihee6p"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
+        "content": "",
+        "background": "#f0eae0",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_LyV9M9": {
@@ -635,9 +635,9 @@
     "video_9knYyr",
     "multi_column_Egc93M",
     "featured_product_xjEKWm",
-    "multi_column_rxfdEP",
     "contact_fLBz9A",
     "tabs_DqDH7t",
+    "multi_column_rxfdEP",
     "faq_LyV9M9",
     "17481118440baba45b"
   ]
