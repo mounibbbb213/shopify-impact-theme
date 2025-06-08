@@ -103,7 +103,7 @@
           "settings": {
             "title": "",
             "subheading": "Pourquoi choisir ce sérum ?",
-            "content": "",
+            "content": "<p><strong>voici les avantages</strong> :</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
