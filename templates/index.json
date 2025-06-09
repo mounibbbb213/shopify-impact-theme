@@ -585,13 +585,21 @@
             "title": "Quels sont les biens faits du produits ?",
             "content": "<p>Hydrate, illumine, protège.</p><p>Enrichi votre peau  en acide hyaluronique et vitamine C, il repulpe la peau, estompe les taches, les rides et révèle un teint éclatant.</p><p>Texture légère, résultats visibles. Pour une peau lisse, jeune, fraîche et radieuse.</p>"
           }
+        },
+        "item_3frMqG": {
+          "type": "item",
+          "settings": {
+            "title": "Recommandé par les dermatologues ?",
+            "content": "<p><strong>Oui, notre sérum est formulé en collaboration avec des dermatologues</strong> et contient des ingrédients reconnus pour leur efficacité et leur tolérance. Idéal même pour les peaux sensibles.<br/><br/><br/><br/></p>"
+          }
         }
       },
       "block_order": [
         "item_ibJhUU",
         "item_KQ7N8D",
         "item_LRcdbF",
-        "item_FQTyfh"
+        "item_FQTyfh",
+        "item_3frMqG"
       ],
       "name": "FAQ",
       "settings": {
