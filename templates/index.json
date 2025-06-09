@@ -122,7 +122,7 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "#e1dbd3",
+        "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
@@ -169,7 +169,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#e1dbd3",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
