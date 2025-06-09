@@ -494,7 +494,7 @@
         "full_width": true,
         "subheading": "contactez-nous",
         "title": "Vous avez des questions ?",
-        "content": "<p><strong>Vous avez une question ?</strong><br/><br/>Nous sommes là pour vous aider ! Que ce soit sur nos produits, la livraison ou votre commande, n’hésitez pas à consulter notre FAQ ou à nous contacter directement. Nous ferons de notre mieux pour répondre à toutes vos interrogations.</p>",
+        "content": "<p><strong>Vous avez une question ?</strong><br/><br/>Nous sommes là pour vous aider ! Que ce soit sur nos produits, la livraison ou votre commande, n’hésitez pas à consulter notre FAQ ou à nous contacter directement. Nous ferons de notre mieux pour répondre à toutes vos interrogations.</p><p>Nous somme disponibles 24h/24 et 7j/7.</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "#ffffff",
