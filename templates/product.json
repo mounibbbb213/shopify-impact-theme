@@ -26,38 +26,11 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "maxbundle_product_bundles_app_block_fbt_bundle_byQWzf": {
-          "type": "shopify://apps/maxbundle-product-bundles/blocks/app-block-fbt-bundle/469560a3-d600-4f5e-a767-2a4cdaceacca",
-          "settings": {}
-        },
-        "maxbundle_product_bundles_app_block_bogo_bundle_Wzqrih": {
-          "type": "shopify://apps/maxbundle-product-bundles/blocks/app-block-bogo-bundle/469560a3-d600-4f5e-a767-2a4cdaceacca",
-          "settings": {}
-        },
-        "maxbundle_product_bundles_app_block_mix_bundle_X9HJde": {
-          "type": "shopify://apps/maxbundle-product-bundles/blocks/app-block-mix-bundle/469560a3-d600-4f5e-a767-2a4cdaceacca",
-          "settings": {}
-        },
-        "maxbundle_product_bundles_app_block_product_bundle_bjz9nC": {
-          "type": "shopify://apps/maxbundle-product-bundles/blocks/app-block-product-bundle/469560a3-d600-4f5e-a767-2a4cdaceacca",
-          "settings": {}
-        },
-        "maxbundle_product_bundles_app_block_volume_bundle_X8MBbB": {
-          "type": "shopify://apps/maxbundle-product-bundles/blocks/app-block-volume-bundle/469560a3-d600-4f5e-a767-2a4cdaceacca",
-          "settings": {
-            "product": "{{product}}"
-          }
         }
       },
       "block_order": [
         "quantity_selector",
-        "buy_buttons",
-        "maxbundle_product_bundles_app_block_fbt_bundle_byQWzf",
-        "maxbundle_product_bundles_app_block_bogo_bundle_Wzqrih",
-        "maxbundle_product_bundles_app_block_mix_bundle_X9HJde",
-        "maxbundle_product_bundles_app_block_product_bundle_bjz9nC",
-        "maxbundle_product_bundles_app_block_volume_bundle_X8MBbB"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
@@ -101,22 +74,6 @@
     },
     "174811110602c117cd": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_QKpQDU": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_QKpQDU"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -130,11 +87,39 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "175000351972500f6b": {
+      "type": "apps",
+      "blocks": {
+        "kudosi_ali_reviews_widget_box_7EXHiq": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/widget-box/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "kudosi_ali_reviews_widget_box_7EXHiq"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "174811110602c117cd"
+    "174811110602c117cd",
+    "175000351972500f6b"
   ]
 }
