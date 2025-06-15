@@ -436,16 +436,37 @@
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
         },
-        "loox_reviews_loox_agg_section_JTpd98": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "kudosi_ali_reviews_widget_box_PjAi9k": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/widget-box/bf2eea72-0400-4db1-8908-44b7418f9a88",
           "settings": {
-            "only_photos": true,
-            "hide_thumbnails": false,
-            "product_handle": "sadoer-collagen-serum-skincare-facial-essence-liquid-firming-moisturizing-soothing-nourishing-face-serum-skin-care",
-            "aggregated": false,
-            "data-limit": 17,
-            "maxwidth": 800,
-            "is_sample": true
+            "product": ""
+          }
+        },
+        "kudosi_ali_reviews_widget_box_in_cart_GXwfaW": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/widget-box-in-cart/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product": ""
+          }
+        },
+        "kudosi_ali_reviews_reviews_carousel_ePmBC8": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/reviews-carousel/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product_ids": []
+          }
+        },
+        "kudosi_ali_reviews_review_carousel_basic_4CcbGd": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/review-carousel-basic/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product_ids": []
+          }
+        },
+        "kudosi_ali_reviews_review_badge_cAtXDy": {
+          "type": "shopify://apps/kudosi-ali-reviews/blocks/review-badge/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "template_id": "highlight",
+            "verified_text": "Verified reviews",
+            "scale": 100,
+            "product_ids": []
           }
         },
         "parcel_panel_app_JgwCA6": {
@@ -465,7 +486,11 @@
         "countdown_timer_essential_app_block_9xYQ7m",
         "buy_buttons_wAyNyb",
         "conversion_bear_trust_badges_widget_r3NRfT",
-        "loox_reviews_loox_agg_section_JTpd98",
+        "kudosi_ali_reviews_widget_box_PjAi9k",
+        "kudosi_ali_reviews_widget_box_in_cart_GXwfaW",
+        "kudosi_ali_reviews_reviews_carousel_ePmBC8",
+        "kudosi_ali_reviews_review_carousel_basic_4CcbGd",
+        "kudosi_ali_reviews_review_badge_cAtXDy",
         "parcel_panel_app_JgwCA6"
       ],
       "name": "Featured product",
