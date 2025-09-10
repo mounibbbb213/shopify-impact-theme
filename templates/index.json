@@ -15,7 +15,7 @@
         "heading_tdFTC8": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "insola, faites qu'un avec votre bébé une deuxième fois.",
             "heading_tag": "h1"
           }
         }
@@ -36,9 +36,103 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_LNtxzi": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HgmcMp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_2025-09-10_221828653.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_cY4HML": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_2025-09-10_215425602.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_WWVTer": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_2025-09-10_215230305.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_ktmnct": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_2025-09-10_215201930.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_HgmcMp",
+        "logo_cY4HML",
+        "logo_WWVTer",
+        "logo_ktmnct"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_yqy6Ct": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3f3gtA": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Insola",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_YFJLAt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3f3gtA",
+        "richtext_YFJLAt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "image_with_text_overlay_F8e6kf"
+    "image_with_text_overlay_F8e6kf",
+    "logo_list_LNtxzi",
+    "rich_text_yqy6Ct"
   ]
 }
