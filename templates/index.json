@@ -194,7 +194,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
+        "autoplay": false,
         "video_size": "auto",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
