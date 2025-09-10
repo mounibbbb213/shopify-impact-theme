@@ -15,7 +15,7 @@
         "heading_tdFTC8": {
           "type": "heading",
           "settings": {
-            "text": "insola, faites qu'un avec votre bébé une deuxième fois.",
+            "text": "Insola, faites qu'un avec votre bébé, une deuxième fois.",
             "heading_tag": "h1"
           }
         }
@@ -32,7 +32,7 @@
         "image": "shopify://shop_images/image_2025-09-10_213202775.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#fbf4e8",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
@@ -103,21 +103,14 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Insola",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_YFJLAt": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "heading_3f3gtA",
-        "richtext_YFJLAt"
+        "heading_3f3gtA"
       ],
       "name": "Rich text",
       "settings": {
@@ -128,11 +121,28 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_hdjEEj": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_2025-09-10_233022306.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
     }
   },
   "order": [
     "image_with_text_overlay_F8e6kf",
     "logo_list_LNtxzi",
-    "rich_text_yqy6Ct"
+    "rich_text_yqy6Ct",
+    "image_with_text_overlay_hdjEEj"
   ]
 }
