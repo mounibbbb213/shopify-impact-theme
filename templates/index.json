@@ -137,12 +137,78 @@
         "overlay_color": "#000000",
         "overlay_opacity": 10
       }
+    },
+    "rich_text_jcBcUd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AV8qk9": {
+          "type": "heading",
+          "settings": {
+            "text": "Résulta avant et après",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_TfzRVy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Plus pratique qu’une poussette, plus doux qu’un câlin.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AV8qk9",
+        "richtext_TfzRVy"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_GejpcA": {
+      "type": "video",
+      "blocks": {
+        "play_CM6zDJ": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_ikBnb6": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_CM6zDJ",
+        "heading_ikBnb6"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image_with_text_overlay_F8e6kf",
     "logo_list_LNtxzi",
     "rich_text_yqy6Ct",
-    "image_with_text_overlay_hdjEEj"
+    "image_with_text_overlay_hdjEEj",
+    "rich_text_jcBcUd",
+    "video_GejpcA"
   ]
 }
