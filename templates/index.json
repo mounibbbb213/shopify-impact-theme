@@ -182,7 +182,7 @@
         "heading_ikBnb6": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "",
             "heading_tag": "h1"
           }
         }
@@ -201,7 +201,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_3LG7XE": {
@@ -269,17 +269,9 @@
     "featured_product_gWq6cz": {
       "type": "featured-product",
       "blocks": {
-        "text_nCVCjc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>insola</p>"
-          }
-        },
-        "liquid_AA7c97": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.star-rating {\n  direction: rtl;\n  display: inline-flex;\n  font-size: 28px;\n  cursor: pointer;\n}\n.star-rating input {\n  display: none;\n}\n.star-rating label {\n  color: #ccc;\n  transition: color 0.2s;\n}\n.star-rating input:checked ~ label,\n.star-rating label:hover,\n.star-rating label:hover ~ label {\n  color: #f5b301;\n}\n</style>\n\n<div class=\"star-rating\">\n  <input type=\"radio\" id=\"5-stars\" name=\"rating\" value=\"5\" />\n  <label for=\"5-stars\">★</label>\n\n  <input type=\"radio\" id=\"4-stars\" name=\"rating\" value=\"4\" />\n  <label for=\"4-stars\">★</label>\n\n  <input type=\"radio\" id=\"3-stars\" name=\"rating\" value=\"3\" />\n  <label for=\"3-stars\">★</label>\n\n  <input type=\"radio\" id=\"2-stars\" name=\"rating\" value=\"2\" />\n  <label for=\"2-stars\">★</label>\n\n  <input type=\"radio\" id=\"1-star\" name=\"rating\" value=\"1\" />\n  <label for=\"1-star\">★</label>\n</div>\n\n<script>\ndocument.querySelectorAll(\".star-rating input\").forEach(input => {\n  input.addEventListener(\"change\", function() {\n    alert(\"Merci ! Vous avez donné une note de \" + this.value + \" étoiles.\");\n    // Ici tu peux envoyer la note vers ton back-end, ton app ou Shopify metafields\n  });\n});\n</script>"
-          }
+        "vendor_my7nHR": {
+          "type": "vendor",
+          "settings": {}
         },
         "title_dGAEA3": {
           "type": "title",
@@ -321,14 +313,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "image_XfCg4E": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-09-22_171449713-removebg-preview.png",
-            "alignment": "start",
-            "max_width": 400
-          }
-        },
         "buy_buttons_TMjTxn": {
           "type": "buy_buttons",
           "settings": {
@@ -346,8 +330,7 @@
         }
       },
       "block_order": [
-        "text_nCVCjc",
-        "liquid_AA7c97",
+        "vendor_my7nHR",
         "title_dGAEA3",
         "badges_agGVAW",
         "price_6GdwDE",
@@ -355,7 +338,6 @@
         "separator_PPExAH",
         "variant_picker_CPna6A",
         "quantity_selector_CrMEDK",
-        "image_XfCg4E",
         "buy_buttons_TMjTxn",
         "pickup_availability_QRP34h"
       ],
