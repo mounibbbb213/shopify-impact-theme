@@ -313,6 +313,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_XfCg4E": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-09-22_171449713-removebg-preview.png",
+            "alignment": "start",
+            "max_width": 400
+          }
+        },
         "buy_buttons_TMjTxn": {
           "type": "buy_buttons",
           "settings": {
@@ -338,6 +346,7 @@
         "separator_PPExAH",
         "variant_picker_CPna6A",
         "quantity_selector_CrMEDK",
+        "image_XfCg4E",
         "buy_buttons_TMjTxn",
         "pickup_availability_QRP34h"
       ],
