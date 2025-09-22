@@ -29,7 +29,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-09-22_161705597.png",
+        "image": "shopify://shop_images/image_2025-09-10_213202775.png",
         "mobile_image": "shopify://shop_images/image_2025-09-22_161455790.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -299,12 +299,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description_4GKHE9": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker_CPna6A": {
           "type": "variant_picker",
           "settings": {
@@ -342,7 +336,6 @@
         "price_6GdwDE",
         "rating_8fipQe",
         "separator_PPExAH",
-        "description_4GKHE9",
         "variant_picker_CPna6A",
         "quantity_selector_CrMEDK",
         "buy_buttons_TMjTxn",
@@ -351,7 +344,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "baby-carrier-newborn-to-toddler-toddler-carrier-with-hood-all-seasons-all-position-baby-hip-carrier-hip-carrier-for-baby-for-breastfeeding-infant-toddler-as-halloween-chrismas-gift-1",
+        "product": "bethbear-baby-carriers-backpack-multifunctional-front-facing-infant-comfortable-baby-sling-backpack-pouch-wrap-baby-kangaroo",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
