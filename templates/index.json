@@ -195,12 +195,75 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/vid 1 ecom.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "multi_column_3LG7XE": {
+      "type": "multi-column",
+      "blocks": {
+        "item_XEUYqg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-09-22_160743331.png",
+            "column_size": "3",
+            "title": "Julie, 29 ans, maman d’un petit garçon de 8 mois",
+            "heading_tag": "h4",
+            "content": "<p>J’ai enfin trouvé un porte-bébé qui ne me fait pas mal au dos ! Le soutien est vraiment bien réparti et mon fils s’endort presque immédiatement dedans. Le tissu est doux et respirant, parfait pour les balades.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KCyGHV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-09-22_160824214.png",
+            "column_size": "3",
+            "title": "Amandine, 26 ans, jeune maman",
+            "heading_tag": "h4",
+            "content": "<p>je craignais que le porte-bébé soit compliqué à mettre seule, mais au contraire, il est super pratique. En quelques secondes, il est attaché et sécurisé. Mon bébé adore être dedans et je garde les mains libres pour mes courses<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nmqMGL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-09-22_160728462.png",
+            "column_size": "3",
+            "title": "Claire, 37 ans, maman active",
+            "heading_tag": "h4",
+            "content": "<p>J’utilise ce porte-bébé tous les jours pour aller chercher ma fille à l’école avec mon petit dernier. Je me sens vraiment à l’aise et mon bébé est tout contre moi, rassuré. C’est devenu un indispensable<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_XEUYqg",
+        "item_KCyGHV",
+        "item_nmqMGL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -210,6 +273,7 @@
     "rich_text_yqy6Ct",
     "image_with_text_overlay_hdjEEj",
     "rich_text_jcBcUd",
-    "video_GejpcA"
+    "video_GejpcA",
+    "multi_column_3LG7XE"
   ]
 }
