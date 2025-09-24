@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Insola, faites qu'un avec votre bébé, une deuxième fois.",
-            "heading_tag": "h1"
+            "heading_tag": "h3"
           }
         }
       },
@@ -35,7 +35,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fbf4e8",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 26
       }
     },
     "logo_list_LNtxzi": {
@@ -88,7 +88,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -118,7 +118,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -167,7 +167,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -193,7 +193,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_3LG7XE": {
@@ -253,7 +253,7 @@
         "subheading": "",
         "title": "Elles l’ont testé, elles vous en parlent",
         "content": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -372,10 +372,10 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
+        "input_background": "#ffffff",
         "input_text_color": ""
       }
     },
