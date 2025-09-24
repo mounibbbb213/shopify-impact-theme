@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Insola, faites qu'un avec votre bébé, une deuxième fois.",
-            "heading_tag": "h3"
+            "heading_tag": "h1"
           }
         }
       },
@@ -35,7 +35,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fbf4e8",
         "overlay_color": "#000000",
-        "overlay_opacity": 26
+        "overlay_opacity": 30
       }
     },
     "logo_list_LNtxzi": {
@@ -88,7 +88,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -118,7 +118,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -167,7 +167,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -193,7 +193,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 30
       }
     },
     "multi_column_3LG7XE": {
@@ -253,7 +253,7 @@
         "subheading": "",
         "title": "Elles l’ont testé, elles vous en parlent",
         "content": "",
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -372,10 +372,10 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "#ffffff",
+        "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
     },
@@ -425,6 +425,75 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_fDjbh8": {
+      "type": "faq",
+      "blocks": {
+        "item_kkJEGK": {
+          "type": "item",
+          "settings": {
+            "title": "À partir de quel âge puis-je utiliser ce porte-bébé ?",
+            "content": "<p>Notre porte-bébé ergonomique peut être utilisé dès la naissance, à partir de 3,5 kg environ. Il dispose de réglages spécifiques qui permettent de bien maintenir le nouveau-né, avec un soutien renforcé de la tête et du cou. Ensuite, il s’adapte à la croissance de votre enfant jusqu’à environ 3 ans, ou 20 kg.<br/><br/><br/></p>"
+          }
+        },
+        "item_gGMQPJ": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’entretenir ?",
+            "content": "<p>Il est très simple d’entretien. Vous pouvez le laver en machine à 30° avec un cycle délicat. Nous recommandons d’éviter le sèche-linge pour préserver les fibres et garder le tissu intact plus longtemps.<br/><br/></p>"
+          }
+        },
+        "item_WiQndP": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il sûr ?",
+            "content": "<p>Oui, il respecte les normes de sécurité européennes en vigueur (EN 13209-2). Les boucles et les fermetures sont solides, testées pour résister à une utilisation quotidienne. Les tissus utilisés sont certifiés sans substances nocives, ce qui garantit une utilisation saine et sûre pour votre bébé.<br/><br/></p>"
+          }
+        },
+        "item_kP84Eh": {
+          "type": "item",
+          "settings": {
+            "title": "Le porte-bébé est-il confortable pour le parent ?",
+            "content": "<p>Oui ! La ceinture ventrale et les bretelles larges et rembourrées répartissent le poids de manière équilibrée sur les hanches, les épaules et le dos. Cela évite les douleurs, même en cas de portage prolongé. Il convient aussi bien aux mamans qu’aux papas, grâce à ses réglages faciles.<br/><br/></p>"
+          }
+        },
+        "item_6PmB8j": {
+          "type": "item",
+          "settings": {
+            "title": "Quelles sont les positions possibles ?",
+            "content": "<p><strong>Ventrale face au porteur</strong> : idéale pour les premiers mois, elle permet une proximité rassurante.<br/><br/><strong>Sur le dos</strong> : parfaite dès que l’enfant grandit, pour plus de confort lors des longues balades.<br/></p><p><strong>Face au monde</strong> : utilisable à partir de 6 mois environ, quand le bébé tient bien sa tête, pour lui permettre de découvrir son environnement.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_kkJEGK",
+        "item_gGMQPJ",
+        "item_WiQndP",
+        "item_kP84Eh",
+        "item_6PmB8j"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -436,6 +505,7 @@
     "video_GejpcA",
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
-    "tabs_gqGQNG"
+    "tabs_gqGQNG",
+    "faq_fDjbh8"
   ]
 }
