@@ -494,6 +494,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_qfHycn": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -506,6 +527,7 @@
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
     "tabs_gqGQNG",
-    "faq_fDjbh8"
+    "faq_fDjbh8",
+    "contact_qfHycn"
   ]
 }
