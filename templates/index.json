@@ -188,7 +188,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "auto",
+        "video_size": "sm",
         "video": "shopify://files/videos/vid 1 ecom.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
@@ -532,7 +532,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/image_2025-09-25_005447223-removebg-preview.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 40,
             "icon_width": 60,
             "icon_background_type": "circle",
             "icon_background": "#cab587",
