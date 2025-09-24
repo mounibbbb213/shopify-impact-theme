@@ -463,6 +463,13 @@
             "title": "Quelles sont les positions possibles ?",
             "content": "<p><strong>Ventrale face au porteur</strong> : idéale pour les premiers mois, elle permet une proximité rassurante.<br/><br/><strong>Sur le dos</strong> : parfaite dès que l’enfant grandit, pour plus de confort lors des longues balades.<br/></p><p><strong>Face au monde</strong> : utilisable à partir de 6 mois environ, quand le bébé tient bien sa tête, pour lui permettre de découvrir son environnement.</p>"
           }
+        },
+        "item_fVaXT7": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
@@ -470,7 +477,8 @@
         "item_gGMQPJ",
         "item_WiQndP",
         "item_kP84Eh",
-        "item_6PmB8j"
+        "item_6PmB8j",
+        "item_fVaXT7"
       ],
       "name": "FAQ",
       "settings": {
@@ -503,17 +511,78 @@
         "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h",
         "title": "Une question ?",
         "content": "",
-        "text_position": "start",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#000000",
+        "heading_color": "#000000",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#f0c417",
+        "button_text_color": "#000000"
+      }
+    },
+    "text_with_icons_gqXyiX": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_wBJrUK": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": ""
+          }
+        },
+        "item_FAnt97": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": ""
+          }
+        },
+        "item_rfz8W4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_wBJrUK",
+        "item_FAnt97",
+        "item_rfz8W4"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -528,6 +597,7 @@
     "featured_product_gWq6cz",
     "tabs_gqGQNG",
     "faq_fDjbh8",
-    "contact_qfHycn"
+    "contact_qfHycn",
+    "text_with_icons_gqXyiX"
   ]
 }
