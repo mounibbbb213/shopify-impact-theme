@@ -193,7 +193,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_3LG7XE": {
@@ -253,7 +253,7 @@
         "subheading": "",
         "title": "Elles l’ont testé, elles vous en parlent",
         "content": "",
-        "background": "#fbf4e8",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
