@@ -577,22 +577,6 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
-    },
-    "image_with_text_overlay_LEtNFW": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-06_221845523.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
     }
   },
   "order": [
@@ -607,7 +591,6 @@
     "faq_fDjbh8",
     "contact_qfHycn",
     "text_with_icons_gqXyiX",
-    "image_with_text_overlay_FAtfaX",
-    "image_with_text_overlay_LEtNFW"
+    "image_with_text_overlay_FAtfaX"
   ]
 }
