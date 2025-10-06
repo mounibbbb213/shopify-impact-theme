@@ -97,32 +97,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_yqy6Ct": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_3f3gtA": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir Insola",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_3f3gtA"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#e2d0b3",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_hdjEEj": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -253,9 +227,9 @@
         "subheading": "",
         "title": "Elles l’ont testé, elles vous en parlent",
         "content": "",
-        "background": "#e2d0b3",
+        "background": "#952a49",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#f0f0f0"
       }
     },
     "featured_product_gWq6cz": {
@@ -419,9 +393,9 @@
         "subheading": "Subheading",
         "title": "Heading",
         "first_tab_open": false,
-        "background": "#e2d0b3",
+        "background": "#952a49",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f0f0f0",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -595,8 +569,23 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
+        "image_size": "sm",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_LEtNFW": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-06_203317421.png",
+        "image": "shopify://shop_images/image_2025-10-06_221845523.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -608,7 +597,6 @@
   "order": [
     "image_with_text_overlay_F8e6kf",
     "logo_list_LNtxzi",
-    "rich_text_yqy6Ct",
     "image_with_text_overlay_hdjEEj",
     "rich_text_jcBcUd",
     "video_GejpcA",
@@ -618,6 +606,7 @@
     "faq_fDjbh8",
     "contact_qfHycn",
     "text_with_icons_gqXyiX",
-    "image_with_text_overlay_FAtfaX"
+    "image_with_text_overlay_FAtfaX",
+    "image_with_text_overlay_LEtNFW"
   ]
 }
