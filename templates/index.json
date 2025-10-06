@@ -410,9 +410,9 @@
         "subheading": "Subheading",
         "title": "Heading",
         "first_tab_open": false,
-        "background": "#952a49",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#f0f0f0",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -492,22 +492,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "image_with_text_overlay_N8mW97": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-06_225809795.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "contact_qfHycn": {
@@ -624,7 +608,6 @@
     "featured_product_gWq6cz",
     "tabs_gqGQNG",
     "faq_fDjbh8",
-    "image_with_text_overlay_N8mW97",
     "contact_qfHycn",
     "text_with_icons_gqXyiX",
     "image_with_text_overlay_FAtfaX"
