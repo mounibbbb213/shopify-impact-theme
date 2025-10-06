@@ -494,6 +494,22 @@
         "accordion_text_color": ""
       }
     },
+    "image_with_text_overlay_N8mW97": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_2025-10-06_225458980.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "contact_qfHycn": {
       "type": "contact",
       "name": "Contact form",
@@ -595,22 +611,6 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
-    },
-    "image_with_text_overlay_N8mW97": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-06_225458980.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
     }
   },
   "order": [
@@ -624,9 +624,9 @@
     "featured_product_gWq6cz",
     "tabs_gqGQNG",
     "faq_fDjbh8",
+    "image_with_text_overlay_N8mW97",
     "contact_qfHycn",
     "text_with_icons_gqXyiX",
-    "image_with_text_overlay_FAtfaX",
-    "image_with_text_overlay_N8mW97"
+    "image_with_text_overlay_FAtfaX"
   ]
 }
