@@ -33,7 +33,7 @@
         "mobile_image": "shopify://shop_images/image_2025-09-22_161455790.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#fbf4e8",
+        "text_color": "#e2d0b3",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
@@ -118,7 +118,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#fbf4e8",
+        "background": "#e2d0b3",
         "background_gradient": "",
         "text_color": ""
       }
@@ -253,7 +253,7 @@
         "subheading": "",
         "title": "Elles l’ont testé, elles vous en parlent",
         "content": "",
-        "background": "#fbf4e8",
+        "background": "#e2d0b3",
         "background_gradient": "",
         "text_color": ""
       }
@@ -419,7 +419,7 @@
         "subheading": "Subheading",
         "title": "Heading",
         "first_tab_open": false,
-        "background": "#fbf4e8",
+        "background": "#e2d0b3",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -513,7 +513,7 @@
         "content": "",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "#fbf4e8",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#000000",
         "heading_color": "#000000",
@@ -587,6 +587,22 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_FAtfaX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_2025-10-06_203317421.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -601,6 +617,7 @@
     "tabs_gqGQNG",
     "faq_fDjbh8",
     "contact_qfHycn",
-    "text_with_icons_gqXyiX"
+    "text_with_icons_gqXyiX",
+    "image_with_text_overlay_FAtfaX"
   ]
 }
