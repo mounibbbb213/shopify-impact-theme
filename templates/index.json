@@ -35,7 +35,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#f0f0f0",
         "overlay_color": "#000000",
-        "overlay_opacity": 20
+        "overlay_opacity": 48
       }
     },
     "logo_list_LNtxzi": {
@@ -327,7 +327,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_2025-09-22_221359410.png",
-            "alignment": "center",
+            "alignment": "start",
             "max_width": 500
           }
         },
@@ -545,7 +545,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -564,7 +564,7 @@
         "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h",
         "title": "Une question ?",
         "content": "",
-        "text_position": "center",
+        "text_position": "start",
         "contact_form_size": "large",
         "background": "#ffffff",
         "background_gradient": "",
@@ -636,7 +636,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
