@@ -323,6 +323,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_DaCNrB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"countdown-box\">\n  <p class=\"countdown-title\">\n    🕒 Fin de l’offre automne dans\n  </p>\n  <div id=\"countdown-timer\" class=\"countdown-timer\">--</div>\n</div>\n\n<style>\n  .countdown-box {\n    max-width: 300px;\n    margin: 24px auto;\n    background: linear-gradient(135deg, #E4F9FF, #ffffff);\n    border: 1.5px solid #CBE7F5;\n    border-radius: 12px;\n    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.04);\n    padding: 16px;\n    text-align: center;\n    font-family: 'Poppins', 'Segoe UI', sans-serif;\n  }\n\n  .countdown-title {\n    color: #333C61;\n    font-size: 1rem;\n    font-weight: 600;\n    margin-bottom: 8px;\n  }\n\n  .countdown-timer {\n    font-size: 1.2rem;\n    font-weight: 600;\n    color: #1F2A44;\n    background-color: #DDF3FF;\n    padding: 6px 14px;\n    border-radius: 10px;\n    display: inline-block;\n    min-width: 180px;\n  }\n</style>\n\n<script>\n  const endDate = new Date(Date.now() + 23 * 60 * 1000); // +23 min\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate - now;\n\n    if (distance <= 0) {\n      document.getElementById(\"countdown-timer\").textContent = \"0j 0h 0m 0s\";\n      return;\n    }\n\n    const d = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const h = Math.floor((distance / (1000 * 60 * 60)) % 24);\n    const m = Math.floor((distance / (1000 * 60)) % 60);\n    const s = Math.floor((distance / 1000) % 60);\n\n    document.getElementById(\"countdown-timer\").textContent =\n      ${d}j ${h}h ${m}m ${s}s;\n\n    setTimeout(updateCountdown, 1000);\n  }\n\n  updateCountdown();\n</script>"
+          }
+        },
         "liquid_dBNgei": {
           "type": "liquid",
           "settings": {
@@ -360,6 +366,7 @@
         "quantity_selector_CrMEDK",
         "image_XfCg4E",
         "buy_buttons_TMjTxn",
+        "liquid_DaCNrB",
         "liquid_dBNgei",
         "liquid_Ue4Acr",
         "image_FYtHhx",
