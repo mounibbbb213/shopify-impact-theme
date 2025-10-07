@@ -552,6 +552,19 @@
         "accordion_text_color": ""
       }
     },
+    "custom_liquid_6rkhnQ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background:#AFB3BB; color:#000000; padding:5px 10px; text-align:center; font-size:14px; border-radius:4px;\">\n  <strong>Livraison OFFERTE !</strong> Livraison possible jusqu’à 10 jours en raison du succès du produit.\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_qfHycn": {
       "type": "contact",
       "name": "Contact form",
@@ -570,7 +583,7 @@
         "contact_background": "",
         "contact_text_color": "",
         "button_background": "#afb3bb",
-        "button_text_color": "#000000"
+        "button_text_color": "#f2f2f2"
       }
     },
     "text_with_icons_gqXyiX": {
@@ -650,6 +663,7 @@
     "tabs_gqGQNG",
     "multi_column_HCgaaV",
     "faq_fDjbh8",
+    "custom_liquid_6rkhnQ",
     "contact_qfHycn",
     "text_with_icons_gqXyiX"
   ]
