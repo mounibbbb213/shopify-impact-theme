@@ -249,66 +249,6 @@
         "text_color": "#000000"
       }
     },
-    "multi_column_HCgaaV": {
-      "type": "multi-column",
-      "blocks": {
-        "item_36KGYr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_1.png",
-            "column_size": "3",
-            "title": "Confort et sécurité",
-            "heading_tag": "h4",
-            "content": "<p>Les tissus doux et le bon ajustement limitent les points de pression, favorisant un portage sûr et apaisant.<br/><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_99ABmJ": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Renforcement du lien parent-bébé",
-            "heading_tag": "h4",
-            "content": "<p>Le contact constant favorise la communication non verbale et la complicité.<br/><br/><br/><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hCewr7": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Claire, 37 ans, maman active",
-            "heading_tag": "h4",
-            "content": "<p>J’utilise ce porte-bébé tous les jours pour aller chercher ma fille à l’école avec mon petit dernier. Je me sens vraiment à l’aise et mon bébé est tout contre moi, rassuré. C’est devenu un indispensable<br/><br/><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_36KGYr",
-        "item_99ABmJ",
-        "item_hCewr7"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Conçu pour durer, aimé pour son confort.",
-        "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000"
-      }
-    },
     "featured_product_gWq6cz": {
       "type": "featured-product",
       "blocks": {
@@ -383,11 +323,23 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_dBNgei": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"award-badge\" role=\"img\" aria-label=\"Élu numéro un des anti-rides 2025 - France\">\n  <span class=\"award-text\">ÉLU #1 DES PORTE BEBE ERGONOMIQUE 2025</span>\n  <span class=\"flag\" aria-hidden=\"true\">\n    <svg viewBox=\"0 0 3 2\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid slice\" class=\"flag-svg\" focusable=\"false\">\n      <rect width=\"1\" height=\"2\" x=\"0\" fill=\"#0055A4\"/>\n      <rect width=\"1\" height=\"2\" x=\"1\" fill=\"#FFFFFF\"/>\n      <rect width=\"1\" height=\"2\" x=\"2\" fill=\"#EF4135\"/>\n    </svg>\n  </span>\n</div>\n\n<style>\n.award-badge {\n  display: flex;\n  align-items: center;\n  justify-content: center; /* centre le texte + drapeau */\n  gap: 0.5rem;\n  font-family: Arial, sans-serif;\n  font-size: 0.75rem; /* texte plus petit */\n  font-weight: bold;\n  text-align: center;\n  margin: 0.5em 0;\n}\n\n.award-text {\n  color: #000000; \n  white-space: nowrap;\n}\n\n.flag {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  width: 22px;\n  height: 15px;\n  border-radius: 3px;\n  overflow: hidden;\n  flex: 0 0 auto;\n}\n\n.flag-svg {\n  width: 100%;\n  height: 100%;\n  display: block;\n}\n</style>"
+          }
+        },
+        "liquid_Ue4Acr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"alert-stock\">\n  <span class=\"stock-indicator\"></span>\n  <span id=\"stock-message\">Stock restant : <strong id=\"stock-count\">6</strong> Pots</span>\n</div>\n\n<style>\n.alert-stock {\n  background-color: #ffe5e5; /* rouge clair */\n  padding: 0.5em 0.9em;\n  display: inline-flex;\n  align-items: center;\n  gap: 0.5em;\n  font-family: Arial, sans-serif;\n  font-size: 0.75rem; /* encore plus petit */\n  font-weight: 300; /* texte plus fin */\n  border-radius: 6px;\n  margin: 0.5em 0;\n}\n\n#stock-message {\n  color: #b30000;\n  font-weight: 300; /* texte plus fin */\n}\n\n.stock-indicator {\n  width: 9px;\n  height: 9px;\n  background-color: #ff1a1a;\n  border-radius: 50%;\n  display: inline-block;\n  animation: blink 2s infinite;\n}\n\n@keyframes blink {\n  0%, 50%, 100% { opacity: 1; }\n  25%, 75% { opacity: 0; }\n}\n</style>\n\n<script>\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n  let stock = 5;\n  const stockCountEl = document.getElementById(\"stock-count\");\n  const stockMessage = document.getElementById(\"stock-message\");\n\n  function updateStockDisplay() {\n    stockCountEl.textContent = stock;\n    if (stock <= 0) {\n      stockMessage.innerHTML = '<span style=\"color:#888;\">Produit en rupture de stock</span>';\n      document.querySelector(\".stock-indicator\").style.display = \"none\";\n    }\n  }\n\n  updateStockDisplay();\n});\n</script>"
+          }
+        },
         "image_FYtHhx": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_2025-09-22_221359410.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
@@ -408,6 +360,8 @@
         "quantity_selector_CrMEDK",
         "image_XfCg4E",
         "buy_buttons_TMjTxn",
+        "liquid_dBNgei",
+        "liquid_Ue4Acr",
         "image_FYtHhx",
         "pickup_availability_QRP34h"
       ],
@@ -638,6 +592,23 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_FAtfaX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_2025-10-06_221957630.png",
+        "mobile_image": "shopify://shop_images/image_2025-10-06_224433155.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -649,10 +620,10 @@
     "video_GejpcA",
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
-    "multi_column_HCgaaV",
     "tabs_gqGQNG",
     "faq_fDjbh8",
     "contact_qfHycn",
-    "text_with_icons_gqXyiX"
+    "text_with_icons_gqXyiX",
+    "image_with_text_overlay_FAtfaX"
   ]
 }
