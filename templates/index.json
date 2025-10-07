@@ -92,7 +92,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Insola ? Pour porter l’amour, pas le poids.",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -141,7 +141,7 @@
           "type": "heading",
           "settings": {
             "text": "Résulta avant et après",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
