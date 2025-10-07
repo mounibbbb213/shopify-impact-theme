@@ -35,7 +35,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#f0f0f0",
         "overlay_color": "#000000",
-        "overlay_opacity": 20
+        "overlay_opacity": 48
       }
     },
     "logo_list_LNtxzi": {
@@ -308,7 +308,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_2025-09-22_171449713-removebg-preview.png",
-            "alignment": "center",
+            "alignment": "start",
             "max_width": 400
           }
         },
@@ -327,7 +327,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_2025-09-22_221359410.png",
-            "alignment": "center",
+            "alignment": "start",
             "max_width": 500
           }
         },
@@ -354,7 +354,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "bethbear-baby-carriers-backpack-multifunctional-front-facing-infant-comfortable-baby-sling-backpack-pouch-wrap-baby-kangaroo",
+        "product": "baby-carrier-newborn-to-toddler-toddler-carrier-with-hood-all-seasons-all-position-baby-hip-carrier-hip-carrier-for-baby-for-breastfeeding-infant-toddler-as-halloween-chrismas-gift-1",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -516,13 +516,6 @@
             "title": "Quelles sont les positions possibles ?",
             "content": "<p><strong>Ventrale face au porteur</strong> : idéale pour les premiers mois, elle permet une proximité rassurante.<br/><br/><strong>Sur le dos</strong> : parfaite dès que l’enfant grandit, pour plus de confort lors des longues balades.<br/></p><p><strong>Face au monde</strong> : utilisable à partir de 6 mois environ, quand le bébé tient bien sa tête, pour lui permettre de découvrir son environnement.</p>"
           }
-        },
-        "item_fVaXT7": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
         }
       },
       "block_order": [
@@ -530,22 +523,21 @@
         "item_gGMQPJ",
         "item_WiQndP",
         "item_kP84Eh",
-        "item_6PmB8j",
-        "item_fVaXT7"
+        "item_6PmB8j"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -561,10 +553,10 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h",
+        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h / Temps de réponse moyen : 24h",
         "title": "Une question ?",
         "content": "",
-        "text_position": "center",
+        "text_position": "start",
         "contact_form_size": "large",
         "background": "#ffffff",
         "background_gradient": "",
@@ -636,7 +628,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
