@@ -249,6 +249,66 @@
         "text_color": "#000000"
       }
     },
+    "multi_column_HCgaaV": {
+      "type": "multi-column",
+      "blocks": {
+        "item_36KGYr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_1.png",
+            "column_size": "3",
+            "title": "Confort et sécurité",
+            "heading_tag": "h4",
+            "content": "<p>Les tissus doux et le bon ajustement limitent les points de pression, favorisant un portage sûr et apaisant.<br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_99ABmJ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Renforcement du lien parent-bébé",
+            "heading_tag": "h4",
+            "content": "<p>Le contact constant favorise la communication non verbale et la complicité.<br/><br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hCewr7": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Claire, 37 ans, maman active",
+            "heading_tag": "h4",
+            "content": "<p>J’utilise ce porte-bébé tous les jours pour aller chercher ma fille à l’école avec mon petit dernier. Je me sens vraiment à l’aise et mon bébé est tout contre moi, rassuré. C’est devenu un indispensable<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_36KGYr",
+        "item_99ABmJ",
+        "item_hCewr7"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Conçu pour durer, aimé pour son confort.",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000"
+      }
+    },
     "featured_product_gWq6cz": {
       "type": "featured-product",
       "blocks": {
@@ -415,23 +475,6 @@
         "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "image_with_text_overlay_FAtfaX": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-06_221957630.png",
-        "mobile_image": "shopify://shop_images/image_2025-10-06_224433155.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "faq_fDjbh8": {
@@ -606,8 +649,8 @@
     "video_GejpcA",
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
+    "multi_column_HCgaaV",
     "tabs_gqGQNG",
-    "image_with_text_overlay_FAtfaX",
     "faq_fDjbh8",
     "contact_qfHycn",
     "text_with_icons_gqXyiX"
