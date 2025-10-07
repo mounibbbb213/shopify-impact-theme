@@ -427,7 +427,7 @@
         "item_36KGYr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_1.png",
+            "image": "shopify://shop_images/Design_sans_titre_6_1.png",
             "column_size": "3",
             "title": "Coton biologique",
             "heading_tag": "h4",
@@ -440,11 +440,11 @@
         "item_99ABmJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_3.png",
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
             "column_size": "3",
-            "title": "Renforcement du lien parent-bébé",
+            "title": "Maille 3D respirante",
             "heading_tag": "h4",
-            "content": "<p>Le contact constant favorise la communication non verbale et la complicité.<br/><br/><br/><br/><br/></p>",
+            "content": "<p>Idéal pour l’été ou les climats chauds, elle favorise la circulation de l’air et limite la transpiration.<br/><br/><br/><br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
