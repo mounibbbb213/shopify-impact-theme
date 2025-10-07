@@ -516,13 +516,6 @@
             "title": "Quelles sont les positions possibles ?",
             "content": "<p><strong>Ventrale face au porteur</strong> : idéale pour les premiers mois, elle permet une proximité rassurante.<br/><br/><strong>Sur le dos</strong> : parfaite dès que l’enfant grandit, pour plus de confort lors des longues balades.<br/></p><p><strong>Face au monde</strong> : utilisable à partir de 6 mois environ, quand le bébé tient bien sa tête, pour lui permettre de découvrir son environnement.</p>"
           }
-        },
-        "item_fVaXT7": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
         }
       },
       "block_order": [
@@ -530,15 +523,14 @@
         "item_gGMQPJ",
         "item_WiQndP",
         "item_kP84Eh",
-        "item_6PmB8j",
-        "item_fVaXT7"
+        "item_6PmB8j"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
@@ -561,7 +553,7 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h",
+        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h / Temps de réponse moyen : 24h",
         "title": "Une question ?",
         "content": "",
         "text_position": "start",
