@@ -85,21 +85,37 @@
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_8XWGdt": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "rich_text_kgcmgN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wpzVMb": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Insola ? Pour porter l’amour, pas le poids.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_e4yWzD": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wpzVMb",
+        "richtext_e4yWzD"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-06_221845523.png",
-        "mobile_image": "shopify://shop_images/image_2025-10-06_224221235.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image_with_text_overlay_hdjEEj": {
@@ -110,7 +126,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-07_220801542.png",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-10-07_221331.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -625,7 +641,7 @@
   "order": [
     "image_with_text_overlay_F8e6kf",
     "logo_list_LNtxzi",
-    "image_with_text_overlay_8XWGdt",
+    "rich_text_kgcmgN",
     "image_with_text_overlay_hdjEEj",
     "rich_text_jcBcUd",
     "video_GejpcA",
