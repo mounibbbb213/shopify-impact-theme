@@ -23,13 +23,6 @@
             "content": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -41,7 +34,6 @@
       },
       "block_order": [
         "newsletter",
-        "links",
         "text"
       ],
       "settings": {
