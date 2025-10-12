@@ -140,7 +140,7 @@
         "heading_AV8qk9": {
           "type": "heading",
           "settings": {
-            "text": "Résulta avant et après",
+            "text": "Résultat avant et après",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -246,7 +246,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "ils l’ont testé, ils vous en parlent",
+        "title": "Ils l’ont testé, Ils vous en parlent",
         "content": "",
         "background": "#ffffff",
         "background_gradient": "",
