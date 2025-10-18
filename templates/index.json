@@ -576,6 +576,13 @@
             "title": "Le porte-bébé s’adapte-t-il à toutes les morphologies ?",
             "content": "<p>Oui.<br/>Les <strong>sangles et la ceinture</strong> sont réglables pour convenir à toutes les tailles et corpulences.<br/>Les deux parents peuvent l’utiliser facilement en ajustant les réglages en quelques secondes.</p>"
           }
+        },
+        "item_fYgNGx": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il facile à enfiler seul(e) ?",
+            "content": "<p>Absolument !<br/><br/>Nos modèles sont pensés pour être <strong>intuitifs et rapides à installer</strong>, même sans aide.<br/><br/>Une fois les réglages initiaux faits, le portage devient un geste naturel.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -591,7 +598,8 @@
         "item_rXwf8C",
         "item_fXdhaY",
         "item_MWifN6",
-        "item_VE74Tp"
+        "item_VE74Tp",
+        "item_fYgNGx"
       ],
       "name": "FAQ",
       "settings": {
