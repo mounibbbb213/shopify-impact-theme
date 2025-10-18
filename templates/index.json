@@ -548,6 +548,13 @@
             "title": "Quelles sont les positions possibles ?",
             "content": "<p><strong>Ventrale face au porteur</strong> : idéale pour les premiers mois, elle permet une proximité rassurante.<br/><br/><strong>Sur le dos</strong> : parfaite dès que l’enfant grandit, pour plus de confort lors des longues balades.<br/></p><p><strong>Face au monde</strong> : utilisable à partir de 6 mois environ, quand le bébé tient bien sa tête, pour lui permettre de découvrir son environnement.</p>"
           }
+        },
+        "item_rXwf8C": {
+          "type": "item",
+          "settings": {
+            "title": "Mon bébé peut-il dormir dedans ?",
+            "content": "<p>Tout à fait ! La position physiologique favorise le sommeil et le contact rassurant avec le parent.<br/>Nos porte-bébés disposent d’une <strong>capuche amovible</strong> pour soutenir la tête et protéger du soleil ou du vent pendant les siestes.</p>"
+          }
         }
       },
       "block_order": [
@@ -559,7 +566,8 @@
         "item_dLYqhf",
         "item_qhwHcF",
         "item_89Jkpk",
-        "item_6PmB8j"
+        "item_6PmB8j",
+        "item_rXwf8C"
       ],
       "name": "FAQ",
       "settings": {
