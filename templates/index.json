@@ -562,6 +562,13 @@
             "title": "Le bébé ne risque-t-il pas d’avoir trop chaud ?",
             "content": "<p>Nos tissus sont <strong>respirants et thermorégulateurs</strong>, évitant la surchauffe.<br/><br/>En été, préférez un modèle en <strong>maille aérée</strong>, et pensez à habiller bébé légèrement, comme s’il était dans vos bras.<br/><br/></p>"
           }
+        },
+        "item_MWifN6": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je allaiter avec un porte-bébé Insola ?",
+            "content": "<p>Oui, c’est possible !<br/><br/>Grâce aux <strong>réglages simples</strong>, vous pouvez abaisser légèrement le bébé pour allaiter en toute discrétion, sans le retirer du porte-bébé.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -575,7 +582,8 @@
         "item_89Jkpk",
         "item_6PmB8j",
         "item_rXwf8C",
-        "item_fXdhaY"
+        "item_fXdhaY",
+        "item_MWifN6"
       ],
       "name": "FAQ",
       "settings": {
