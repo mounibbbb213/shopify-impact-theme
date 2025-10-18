@@ -555,6 +555,13 @@
             "title": "Mon bébé peut-il dormir dedans ?",
             "content": "<p>Tout à fait ! La position physiologique favorise le sommeil et le contact rassurant avec le parent.<br/>Nos porte-bébés disposent d’une <strong>capuche amovible</strong> pour soutenir la tête et protéger du soleil ou du vent pendant les siestes.</p>"
           }
+        },
+        "item_fXdhaY": {
+          "type": "item",
+          "settings": {
+            "title": "Le bébé ne risque-t-il pas d’avoir trop chaud ?",
+            "content": "<p>Nos tissus sont <strong>respirants et thermorégulateurs</strong>, évitant la surchauffe.<br/><br/>En été, préférez un modèle en <strong>maille aérée</strong>, et pensez à habiller bébé légèrement, comme s’il était dans vos bras.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -567,7 +574,8 @@
         "item_qhwHcF",
         "item_89Jkpk",
         "item_6PmB8j",
-        "item_rXwf8C"
+        "item_rXwf8C",
+        "item_fXdhaY"
       ],
       "name": "FAQ",
       "settings": {
