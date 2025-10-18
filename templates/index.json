@@ -569,6 +569,13 @@
             "title": "Puis-je allaiter avec un porte-bébé Insola ?",
             "content": "<p>Oui, c’est possible !<br/><br/>Grâce aux <strong>réglages simples</strong>, vous pouvez abaisser légèrement le bébé pour allaiter en toute discrétion, sans le retirer du porte-bébé.<br/><br/></p>"
           }
+        },
+        "item_VE74Tp": {
+          "type": "item",
+          "settings": {
+            "title": "Le porte-bébé s’adapte-t-il à toutes les morphologies ?",
+            "content": "<p>Oui.<br/>Les <strong>sangles et la ceinture</strong> sont réglables pour convenir à toutes les tailles et corpulences.<br/>Les deux parents peuvent l’utiliser facilement en ajustant les réglages en quelques secondes.</p>"
+          }
         }
       },
       "block_order": [
@@ -583,7 +590,8 @@
         "item_6PmB8j",
         "item_rXwf8C",
         "item_fXdhaY",
-        "item_MWifN6"
+        "item_MWifN6",
+        "item_VE74Tp"
       ],
       "name": "FAQ",
       "settings": {
