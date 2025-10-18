@@ -493,6 +493,13 @@
             "content": "<p>Notre porte-bébé ergonomique peut être utilisé dès la naissance, à partir de 3,5 kg environ. Il dispose de réglages spécifiques qui permettent de bien maintenir le nouveau-né, avec un soutien renforcé de la tête et du cou. Ensuite, il s’adapte à la croissance de votre enfant jusqu’à environ 3 ans, ou 20 kg.<br/><br/><br/></p>"
           }
         },
+        "item_4nBzRK": {
+          "type": "item",
+          "settings": {
+            "title": "De quoi est fabriqué le porte-bébé ?",
+            "content": "<p>Chaque porte-bébé Insola est confectionné avec des <strong>tissus certifiés OEKO-TEX®</strong>, sans substances nocives. Nous utilisons principalement du <strong>coton biologique</strong>, du <strong>lin naturel</strong> ou une <strong>maille 3D respirante</strong> selon les modèles, pour garantir douceur, sécurité et confort thermique.</p>"
+          }
+        },
         "item_gGMQPJ": {
           "type": "item",
           "settings": {
@@ -505,13 +512,6 @@
           "settings": {
             "title": "Est-il sûr ?",
             "content": "<p>Oui, il respecte les normes de sécurité européennes en vigueur (EN 13209-2). Les boucles et les fermetures sont solides, testées pour résister à une utilisation quotidienne. Les tissus utilisés sont certifiés sans substances nocives, ce qui garantit une utilisation saine et sûre pour votre bébé.<br/><br/></p>"
-          }
-        },
-        "item_V8ckNe": {
-          "type": "item",
-          "settings": {
-            "title": "Comment entretenir le porte-bébé ?",
-            "content": "<p>Nos modèles sont <strong>lavables en machine à 30 °C</strong>. Nous recommandons un séchage à l’air libre pour préserver la qualité du tissu et des sangles.<br/><br/></p>"
           }
         },
         "item_kP84Eh": {
@@ -552,9 +552,9 @@
       },
       "block_order": [
         "item_kkJEGK",
+        "item_4nBzRK",
         "item_gGMQPJ",
         "item_WiQndP",
-        "item_V8ckNe",
         "item_kP84Eh",
         "item_dLYqhf",
         "item_qhwHcF",
