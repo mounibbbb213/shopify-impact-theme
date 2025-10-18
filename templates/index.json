@@ -514,6 +514,27 @@
             "content": "<p>Oui ! La ceinture ventrale et les bretelles larges et rembourrées répartissent le poids de manière équilibrée sur les hanches, les épaules et le dos. Cela évite les douleurs, même en cas de portage prolongé. Il convient aussi bien aux mamans qu’aux papas, grâce à ses réglages faciles.<br/><br/></p>"
           }
         },
+        "item_dLYqhf": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on porter le bébé sur le ventre et dans le dos ?",
+            "content": "<p>Oui ! Vous pouvez porter votre bébé <strong>sur le ventre face à vous</strong> dès la naissance, puis <strong>dans le dos</strong> lorsqu’il grandit. Certains modèles permettent aussi le portage <strong>sur la hanche</strong> pour plus de flexibilité.<br/><br/></p>"
+          }
+        },
+        "item_qhwHcF": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la différence entre un porte-bébé classique et un porte-bébé ergonomique ?",
+            "content": "<p>Le porte-bébé classique soutient souvent le bébé par l’entrejambe, ce qui peut créer une posture inconfortable. Le porte-bébé ergonomique, lui, <strong>soutient les cuisses et les fesses</strong>, favorisant une <strong>position physiologique</strong> respectueuse du corps de l’enfant.<br/><br/></p>"
+          }
+        },
+        "item_89Jkpk": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi choisir Insola ?",
+            "content": "<p><br/>Parce qu’Insola, c’est <strong>le parfait équilibre entre confort, sécurité et douceur</strong>.<br/><br/>Nos porte-bébés sont pensés pour <strong>renforcer le lien parent-bébé</strong> tout en offrant une liberté de mouvement incomparable.<br/><br/><strong>Insola : le confort qui rapproche.</strong></p>"
+          }
+        },
         "item_6PmB8j": {
           "type": "item",
           "settings": {
@@ -527,6 +548,9 @@
         "item_gGMQPJ",
         "item_WiQndP",
         "item_kP84Eh",
+        "item_dLYqhf",
+        "item_qhwHcF",
+        "item_89Jkpk",
         "item_6PmB8j"
       ],
       "name": "FAQ",
