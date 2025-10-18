@@ -507,6 +507,13 @@
             "content": "<p>Oui, il respecte les normes de sécurité européennes en vigueur (EN 13209-2). Les boucles et les fermetures sont solides, testées pour résister à une utilisation quotidienne. Les tissus utilisés sont certifiés sans substances nocives, ce qui garantit une utilisation saine et sûre pour votre bébé.<br/><br/></p>"
           }
         },
+        "item_V8ckNe": {
+          "type": "item",
+          "settings": {
+            "title": "Comment entretenir le porte-bébé ?",
+            "content": "<p>Nos modèles sont <strong>lavables en machine à 30 °C</strong>. Nous recommandons un séchage à l’air libre pour préserver la qualité du tissu et des sangles.<br/><br/></p>"
+          }
+        },
         "item_kP84Eh": {
           "type": "item",
           "settings": {
@@ -547,6 +554,7 @@
         "item_kkJEGK",
         "item_gGMQPJ",
         "item_WiQndP",
+        "item_V8ckNe",
         "item_kP84Eh",
         "item_dLYqhf",
         "item_qhwHcF",
