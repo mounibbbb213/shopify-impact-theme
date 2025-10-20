@@ -311,7 +311,7 @@
         "image_XfCg4E": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_2025-09-22_171449713-removebg-preview.png",
+            "image": "shopify://shop_images/image_2025-10-20_225128255.png",
             "alignment": "start",
             "max_width": 400
           }
@@ -642,7 +642,7 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h / Temps de réponse moyen : 24h",
+        "subheading": "notre service client est ouvert 7J/7 temps de réponse moyenne 24h",
         "title": "Une question ?",
         "content": "",
         "text_position": "start",
