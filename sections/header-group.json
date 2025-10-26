@@ -17,21 +17,29 @@
         "message_NJLwr7": {
           "type": "message",
           "settings": {
-            "text": "livraison gratuite",
+            "text": "Livraison Gratuite",
             "url": ""
           }
         },
         "message_VBABmz": {
           "type": "message",
           "settings": {
-            "text": "satisfait ou remboursé",
+            "text": "Satisfait ou Remboursé",
+            "url": ""
+          }
+        },
+        "message_rGWPKC": {
+          "type": "message",
+          "settings": {
+            "text": "Offre Halloween -50%",
             "url": ""
           }
         }
       },
       "block_order": [
         "message_NJLwr7",
-        "message_VBABmz"
+        "message_VBABmz",
+        "message_rGWPKC"
       ],
       "settings": {
         "enable_sticky": false,
