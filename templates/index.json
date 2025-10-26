@@ -400,12 +400,21 @@
             "content": "<p>🚚 <strong>Livraison 100 % gratuite</strong> : profitez de la livraison offerte selon le volume de votre commande.<br/><br/>⏱️ <strong>Délai estimé</strong> : entre <strong>5 et 8 jours ouvrés</strong>.<br/><br/></p>",
             "page": ""
           }
+        },
+        "tab_zBUeMN": {
+          "type": "tab",
+          "settings": {
+            "title": "sa conception",
+            "content": "<p>Découvrez un porte-bébé ergonomique conçu pour le confort et la sécurité du parent et du bébé.<br/><br/>Alliant <strong>innovation</strong>, <strong>design</strong> et <strong>qualité</strong>, il s’adapte à toutes les situations du quotidien.</p><p>🍼 <strong>Âge recommandé :</strong> de la naissance à 36 mois<br/><br/>⚖️ <strong>Poids supporté :</strong> jusqu’à 20 kg<br/><br/>🧵 <strong>Matériaux :</strong> coton biologique et maille 3D respirante<br/><br/>🎒 <strong>Positions de portage :</strong> ventrale, dorsale et face au monde<br/><br/>🧽 <strong>Entretien :</strong> lavable en machine à 30°C<br/><br/>🎁 <strong>Accessoires inclus :</strong> capuche amovible et poches de rangement<br/></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_gedf4w",
         "tab_rrrhwN",
-        "tab_czC9EC"
+        "tab_czC9EC",
+        "tab_zBUeMN"
       ],
       "name": "Tabs",
       "settings": {
