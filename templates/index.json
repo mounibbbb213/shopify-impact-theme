@@ -140,8 +140,8 @@
         "heading_AV8qk9": {
           "type": "heading",
           "settings": {
-            "text": "Résultat avant et après",
-            "heading_tag": "h2",
+            "text": "Prêt à l’emploi en seulement 4 étapes",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
@@ -149,7 +149,7 @@
         "richtext_TfzRVy": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Plus pratique qu’une poussette, plus doux qu’un câlin.<br/><br/></p>"
+            "content": "<p>un design ergonomique pensé pour simplifier votre quotidien et garantir le bien-être de bébé dès la première utilisation.<br/><br/><br/><br/><br/><br/></p>"
           }
         }
       },
@@ -183,8 +183,8 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/vid 1 ecom.mp4",
+        "video_size": "fill",
+        "video": "shopify://files/videos/33333.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#e2d0b3",
