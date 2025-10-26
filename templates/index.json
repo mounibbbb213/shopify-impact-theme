@@ -92,7 +92,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Insola ? Pour porter l’amour, pas le poids.",
-            "heading_tag": "h3",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
@@ -243,7 +243,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Ils l’ont testé, Ils vous en parlent",
@@ -473,7 +473,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Conçu pour durer, aimé pour son confort.",
