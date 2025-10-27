@@ -92,7 +92,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Insola ? Pour porter l’amour, pas le poids.",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -141,26 +141,19 @@
           "type": "heading",
           "settings": {
             "text": "Prêt à l’emploi en seulement 4 étapes",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_TfzRVy": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>un design ergonomique pensé pour simplifier votre quotidien et garantir le bien-être de bébé dès la première utilisation.</p>"
           }
         }
       },
       "block_order": [
-        "heading_AV8qk9",
-        "richtext_TfzRVy"
+        "heading_AV8qk9"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
