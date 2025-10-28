@@ -113,7 +113,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -176,7 +176,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "fill",
+        "video_size": "auto",
         "video": "shopify://files/videos/33333.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
@@ -366,7 +366,7 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<div style=\"background:#AFB3BB; color:#000000; padding:5px 10px; text-align:center; font-size:14px; border-radius:4px;\">\n  <strong>Livraison OFFERTE !</strong> Livraison possible jusqu’à 10 jours en raison du succès du produit.\n</div>",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
