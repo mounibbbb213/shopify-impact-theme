@@ -372,6 +372,22 @@
         "text_color": ""
       }
     },
+    "17626755943d32e305": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "1762675550ccb4103f": {
       "type": "apps",
       "settings": {
@@ -520,7 +536,7 @@
         "background_gradient": "",
         "text_color": "",
         "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
@@ -898,6 +914,7 @@
     "featured_product_gWq6cz",
     "176267325397144a92",
     "custom_liquid_6rkhnQ",
+    "17626755943d32e305",
     "1762675550ccb4103f",
     "1762675567b572575a",
     "17626755354e6f2a3c",
