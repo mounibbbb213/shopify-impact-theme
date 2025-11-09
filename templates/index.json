@@ -259,33 +259,9 @@
           "type": "shopify://apps/shop/blocks/shop-login-button-app-block/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
           "settings": {}
         },
-        "text_nCVCjc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>insola</p>"
-          }
-        },
-        "liquid_AA7c97": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.star-rating {\n  direction: rtl;\n  display: inline-flex;\n  font-size: 28px;\n  cursor: pointer;\n}\n.star-rating input {\n  display: none;\n}\n.star-rating label {\n  color: #ccc;\n  transition: color 0.2s;\n}\n.star-rating input:checked ~ label,\n.star-rating label:hover,\n.star-rating label:hover ~ label {\n  color: #f5b301;\n}\n</style>\n\n<div class=\"star-rating\">\n  <input type=\"radio\" id=\"5-stars\" name=\"rating\" value=\"5\" />\n  <label for=\"5-stars\">★</label>\n\n  <input type=\"radio\" id=\"4-stars\" name=\"rating\" value=\"4\" />\n  <label for=\"4-stars\">★</label>\n\n  <input type=\"radio\" id=\"3-stars\" name=\"rating\" value=\"3\" />\n  <label for=\"3-stars\">★</label>\n\n  <input type=\"radio\" id=\"2-stars\" name=\"rating\" value=\"2\" />\n  <label for=\"2-stars\">★</label>\n\n  <input type=\"radio\" id=\"1-star\" name=\"rating\" value=\"1\" />\n  <label for=\"1-star\">★</label>\n</div>\n\n<script>\ndocument.querySelectorAll(\".star-rating input\").forEach(input => {\n  input.addEventListener(\"change\", function() {\n    alert(\"Merci ! Vous avez donné une note de \" + this.value + \" étoiles.\");\n    // Ici tu peux envoyer la note vers ton back-end, ton app ou Shopify metafields\n  });\n});\n</script>"
-          }
-        },
-        "title_dGAEA3": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
         "badges_agGVAW": {
           "type": "badges",
           "settings": {}
-        },
-        "price_6GdwDE": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating_8fipQe": {
           "type": "rating",
@@ -296,16 +272,6 @@
         "separator_PPExAH": {
           "type": "separator",
           "settings": {}
-        },
-        "variant_picker_CPna6A": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "dropdown",
-            "color_mode": "block",
-            "size_chart_page": ""
-          }
         },
         "quantity_selector_CrMEDK": {
           "type": "quantity_selector",
@@ -324,7 +290,7 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#b7b3b3",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -338,14 +304,9 @@
       "block_order": [
         "kaching_bundles_app_block_HkNEnc",
         "shop_shop_login_button_app_block_hrTFBE",
-        "text_nCVCjc",
-        "liquid_AA7c97",
-        "title_dGAEA3",
         "badges_agGVAW",
-        "price_6GdwDE",
         "rating_8fipQe",
         "separator_PPExAH",
-        "variant_picker_CPna6A",
         "quantity_selector_CrMEDK",
         "image_XfCg4E",
         "buy_buttons_TMjTxn",
