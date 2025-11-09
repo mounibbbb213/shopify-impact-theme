@@ -331,6 +331,34 @@
         "input_text_color": ""
       }
     },
+    "176267325397144a92": {
+      "type": "apps",
+      "blocks": {
+        "essential_trust_badges_app_block_FfBmir": {
+          "type": "shopify://apps/essential-trust-badges/blocks/app-block/0ff65b25-07e1-408e-950f-f54dd3d1751b",
+          "settings": {
+            "banner_display": "all",
+            "banner_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "essential_trust_badges_app_block_FfBmir"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "custom_liquid_6rkhnQ": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -714,6 +742,7 @@
     "video_GejpcA",
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
+    "176267325397144a92",
     "custom_liquid_6rkhnQ",
     "tabs_gqGQNG",
     "multi_column_HCgaaV",
