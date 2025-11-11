@@ -374,6 +374,15 @@
     },
     "17626755943d32e305": {
       "type": "apps",
+      "blocks": {
+        "parcel_panel_app_FheE4F": {
+          "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "parcel_panel_app_FheE4F"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
