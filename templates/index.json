@@ -369,15 +369,6 @@
     },
     "17626755943d32e305": {
       "type": "apps",
-      "blocks": {
-        "parcel_panel_app_FheE4F": {
-          "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "parcel_panel_app_FheE4F"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -813,8 +804,8 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#afb3bb",
-        "button_text_color": "#000000"
+        "button_background": "#a8b7c6",
+        "button_text_color": "#a8b7c6"
       }
     },
     "text_with_icons_gqXyiX": {
@@ -828,7 +819,7 @@
             "mobile_icon_width": 40,
             "icon_width": 60,
             "icon_background_type": "circle",
-            "icon_background": "#afb3bb",
+            "icon_background": "#a8b7c6",
             "icon_color": "",
             "title": "livraison gratuit",
             "content": ""
