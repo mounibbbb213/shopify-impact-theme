@@ -31,7 +31,7 @@
         "message_rGWPKC": {
           "type": "message",
           "settings": {
-            "text": "Offre Halloween -50%",
+            "text": "Black Friday -40%",
             "url": ""
           }
         }
@@ -46,7 +46,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#afb3bb",
+        "background": "#a8b7c6",
         "background_gradient": "",
         "text_color": "#000000"
       }
