@@ -305,6 +305,12 @@
     "featured_product_gWq6cz": {
       "type": "featured-product",
       "blocks": {
+        "title_p9dG7h": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
         "liquid_dPdJRb": {
           "type": "liquid",
           "settings": {
@@ -358,6 +364,7 @@
         }
       },
       "block_order": [
+        "title_p9dG7h",
         "liquid_dPdJRb",
         "liquid_FNYmrE",
         "kaching_bundles_app_block_HkNEnc",
