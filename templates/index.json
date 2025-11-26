@@ -184,6 +184,49 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_MM88J7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ahMtJP": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_EBcXfU": {
+          "type": "heading",
+          "settings": {
+            "text": "Ces résultats ? Ce sont les leurs.",
+            "heading_tag": "h1",
+            "text_color": "#333333",
+            "gradient": ""
+          }
+        },
+        "heading_wXeyJE": {
+          "type": "heading",
+          "settings": {
+            "text": "Les vôtres vous attendent.",
+            "heading_tag": "h4",
+            "text_color": "#333333",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ahMtJP",
+        "heading_EBcXfU",
+        "heading_wXeyJE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_3LG7XE": {
       "type": "multi-column",
       "blocks": {
@@ -239,7 +282,7 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ils l’ont testé, Ils vous en parlent",
+        "title": "",
         "content": "",
         "background": "#ffffff",
         "background_gradient": "",
@@ -734,6 +777,7 @@
     "image_with_text_overlay_hdjEEj",
     "rich_text_jcBcUd",
     "video_GejpcA",
+    "rich_text_MM88J7",
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
     "176267325397144a92",
