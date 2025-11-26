@@ -337,6 +337,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_CR6e9J": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_2.png",
+            "column_size": "3",
+            "title": "Sofia, 29 ans, maman d’un petit garçon",
+            "heading_tag": "h5",
+            "content": "<p>« Franchement, ce porte-bébé m’a sauvée. Je peux sortir faire mes courses ou promener le chien sans galérer avec la poussette. Il se met en 10 secondes, mon fils s’y endort à chaque fois, et mon dos va beaucoup mieux depuis que je l’utilise. »<br/><br/><br/><br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -344,7 +357,8 @@
         "item_KCyGHV",
         "item_e9eJgn",
         "item_nmqMGL",
-        "item_hVi3Xk"
+        "item_hVi3Xk",
+        "item_CR6e9J"
       ],
       "name": "Multi-column",
       "settings": {
