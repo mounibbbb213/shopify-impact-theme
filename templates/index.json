@@ -645,7 +645,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#4b4b4b",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
