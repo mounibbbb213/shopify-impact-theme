@@ -410,38 +410,6 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "image_with_text_overlay_TcLNEp": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/6D188A0A-C4C3-4C9E-985C-82891F07DC2D_4_5005_c-Photoroom_1.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_meihwA": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/LIVRAISON_PREMIUM.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "tabs_gqGQNG": {
       "type": "tabs",
       "blocks": {
@@ -687,8 +655,6 @@
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
     "176267325397144a92",
-    "image_with_text_overlay_TcLNEp",
-    "image_with_text_overlay_meihwA",
     "tabs_gqGQNG",
     "multi_column_HCgaaV",
     "faq_fDjbh8",
