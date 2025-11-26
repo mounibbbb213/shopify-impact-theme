@@ -227,6 +227,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_KcTVEU": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"image-inline-wrapper\" style=\"display:inline-block; vertical-align:middle;\">\n  <img\n    src=\"{{ 'ECXELLENT.avif' | asset_url }}\"\n    alt=\"Image\"\n    loading=\"lazy\"\n    style=\"\n      max-width:100%;\n      height:auto;\n      display:inline-block;\n    \"\n  >\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_3LG7XE": {
       "type": "multi-column",
       "blocks": {
@@ -649,6 +662,7 @@
     "rich_text_jcBcUd",
     "video_GejpcA",
     "rich_text_MM88J7",
+    "custom_liquid_KcTVEU",
     "multi_column_3LG7XE",
     "featured_product_gWq6cz",
     "176267325397144a92",

@@ -17,21 +17,28 @@
         "message_NJLwr7": {
           "type": "message",
           "settings": {
-            "text": "Livraison Gratuite",
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         },
         "message_VBABmz": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou Remboursé",
+            "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
         },
         "message_rGWPKC": {
           "type": "message",
           "settings": {
-            "text": "Black Friday -40%",
+            "text": "OFFRE LIMITÉE BLACK FRIDAY -40%  🖤",
+            "url": ""
+          }
+        },
+        "message_XRyaPC": {
+          "type": "message",
+          "settings": {
+            "text": "STOCKS BIENTÔT ÉPUISÉS",
             "url": ""
           }
         }
@@ -39,16 +46,17 @@
       "block_order": [
         "message_NJLwr7",
         "message_VBABmz",
-        "message_rGWPKC"
+        "message_rGWPKC",
+        "message_XRyaPC"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#a8b7c6",
+        "background": "#464646",
         "background_gradient": "",
-        "text_color": "#000000"
+        "text_color": "#f0f0f0"
       }
     },
     "header": {
