@@ -79,7 +79,7 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#3d3d3d",
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
@@ -93,7 +93,7 @@
           "settings": {
             "text": "Pourquoi choisir Insola ? Pour porter l’amour, pas le poids.",
             "heading_tag": "h2",
-            "text_color": "",
+            "text_color": "#313131",
             "gradient": ""
           }
         },
@@ -234,7 +234,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<img\n  src=\"https://cdn.shopify.com/s/files/1/0967/7399/6875/files/ECXELLENT.avif?v=1764118927\"\n  alt=\"ECXELLENT\"\n  loading=\"lazy\"\n  style=\"\n    max-width:100%;\n    height:auto;\n    display:inline-block;\n    vertical-align:middle;\n  \"\n>",
+        "liquid": "<img\n  src=\"https://cdn.shopify.com/s/files/1/0967/7399/6875/files/ECXELLENT.avif?v=1764118927\"\n  alt=\"ECXELLENT\"\n  loading=\"lazy\"\n  style=\"\n    max-width:110%;\n    height:auto;\n    display:inline-block;\n    vertical-align:middle;\n  \"\n>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
