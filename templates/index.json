@@ -430,8 +430,8 @@
         "tab_czC9EC": {
           "type": "tab",
           "settings": {
-            "title": "livraison gratuit",
-            "content": "<p>🚚 <strong>Livraison 100 % gratuite</strong> : profitez de la livraison offerte selon le volume de votre commande.<br/><br/>⏱️ <strong>Délai estimé</strong> : entre <strong>5 et 8 jours ouvrés</strong>.<br/><br/></p>",
+            "title": "Livraison Offerte",
+            "content": "<p>La livraison à domicile est offerte. Le délai d'expédition varie de 24h à 48h et la livraison est estimé entre 4 à 5 jours ouvrés.</p>",
             "page": ""
           }
         },
