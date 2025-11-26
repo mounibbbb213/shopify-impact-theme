@@ -526,23 +526,6 @@
         "text_color": "#000000"
       }
     },
-    "image_with_text_overlay_C7TGnj": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_2025-10-26_222126763.png",
-        "mobile_image": "shopify://shop_images/image_2025-11-13_211439441.png",
-        "mobile_text_position": "place-self-center-start text-start",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "faq_fDjbh8": {
       "type": "faq",
       "blocks": {
@@ -551,27 +534,6 @@
           "settings": {
             "title": "À partir de quel âge puis-je utiliser ce porte-bébé ?",
             "content": "<p>Notre porte-bébé ergonomique peut être utilisé dès la naissance, à partir de 3,5 kg environ. Il dispose de réglages spécifiques qui permettent de bien maintenir le nouveau-né, avec un soutien renforcé de la tête et du cou. Ensuite, il s’adapte à la croissance de votre enfant jusqu’à environ 3 ans, ou 20 kg.<br/><br/><br/></p>"
-          }
-        },
-        "item_4nBzRK": {
-          "type": "item",
-          "settings": {
-            "title": "De quoi est fabriqué le porte-bébé ?",
-            "content": "<p>Chaque porte-bébé Insola est confectionné avec des <strong>tissus certifiés OEKO-TEX®</strong>, sans substances nocives. Nous utilisons principalement du <strong>coton biologique</strong>, du <strong>lin naturel</strong> ou une <strong>maille 3D respirante</strong> selon les modèles, pour garantir douceur, sécurité et confort thermique.</p>"
-          }
-        },
-        "item_gGMQPJ": {
-          "type": "item",
-          "settings": {
-            "title": "Comment l’entretenir ?",
-            "content": "<p>Il est très simple d’entretien. Vous pouvez le laver en machine à 30° avec un cycle délicat. Nous recommandons d’éviter le sèche-linge pour préserver les fibres et garder le tissu intact plus longtemps.<br/><br/></p>"
-          }
-        },
-        "item_WiQndP": {
-          "type": "item",
-          "settings": {
-            "title": "Est-il sûr ?",
-            "content": "<p>Oui, il respecte les normes de sécurité européennes en vigueur (EN 13209-2). Les boucles et les fermetures sont solides, testées pour résister à une utilisation quotidienne. Les tissus utilisés sont certifiés sans substances nocives, ce qui garantit une utilisation saine et sûre pour votre bébé.<br/><br/></p>"
           }
         },
         "item_kP84Eh": {
@@ -586,13 +548,6 @@
           "settings": {
             "title": "Peut-on porter le bébé sur le ventre et dans le dos ?",
             "content": "<p>Oui ! Vous pouvez porter votre bébé <strong>sur le ventre face à vous</strong> dès la naissance, puis <strong>dans le dos</strong> lorsqu’il grandit. Certains modèles permettent aussi le portage <strong>sur la hanche</strong> pour plus de flexibilité.<br/><br/></p>"
-          }
-        },
-        "item_qhwHcF": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle est la différence entre un porte-bébé classique et un porte-bébé ergonomique ?",
-            "content": "<p>Le porte-bébé classique soutient souvent le bébé par l’entrejambe, ce qui peut créer une posture inconfortable. Le porte-bébé ergonomique, lui, <strong>soutient les cuisses et les fesses</strong>, favorisant une <strong>position physiologique</strong> respectueuse du corps de l’enfant.<br/><br/></p>"
           }
         },
         "item_89Jkpk": {
@@ -629,44 +584,24 @@
             "title": "Puis-je allaiter avec un porte-bébé Insola ?",
             "content": "<p>Oui, c’est possible !<br/><br/>Grâce aux <strong>réglages simples</strong>, vous pouvez abaisser légèrement le bébé pour allaiter en toute discrétion, sans le retirer du porte-bébé.<br/><br/></p>"
           }
-        },
-        "item_VE74Tp": {
-          "type": "item",
-          "settings": {
-            "title": "Le porte-bébé s’adapte-t-il à toutes les morphologies ?",
-            "content": "<p>Oui.<br/>Les <strong>sangles et la ceinture</strong> sont réglables pour convenir à toutes les tailles et corpulences.<br/>Les deux parents peuvent l’utiliser facilement en ajustant les réglages en quelques secondes.</p>"
-          }
-        },
-        "item_fYgNGx": {
-          "type": "item",
-          "settings": {
-            "title": "Est-il facile à enfiler seul(e) ?",
-            "content": "<p>Absolument !<br/><br/>Nos modèles sont pensés pour être <strong>intuitifs et rapides à installer</strong>, même sans aide.<br/><br/>Une fois les réglages initiaux faits, le portage devient un geste naturel.<br/><br/></p>"
-          }
         }
       },
       "block_order": [
         "item_kkJEGK",
-        "item_4nBzRK",
-        "item_gGMQPJ",
-        "item_WiQndP",
         "item_kP84Eh",
         "item_dLYqhf",
-        "item_qhwHcF",
         "item_89Jkpk",
         "item_6PmB8j",
         "item_rXwf8C",
         "item_fXdhaY",
-        "item_MWifN6",
-        "item_VE74Tp",
-        "item_fYgNGx"
+        "item_MWifN6"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "",
+        "title": "FAQ - Questions les plus fréquentes",
+        "content": "<p>Tout ce que vous devez savoir sur notre porte bébé INSOLA, le porte bébé qui efface les douleurs.<br/></p>",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
@@ -676,7 +611,7 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#484848",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
@@ -684,89 +619,25 @@
         "accordion_text_color": ""
       }
     },
-    "contact_qfHycn": {
+    "contact_ccmg6G": {
       "type": "contact",
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Notre service client ouvert 7j/7 temps de réponse : 24h",
-        "title": "Une question ?",
+        "subheading": "",
+        "title": "Recevez des conseils d'experts pour vous aider à faire le bon choix !",
         "content": "",
-        "text_position": "start",
+        "text_position": "center",
         "contact_form_size": "large",
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "#000000",
+        "text_color": "",
+        "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#a8b7c6",
-        "button_text_color": "#f0f0f0"
-      }
-    },
-    "text_with_icons_gqXyiX": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_wBJrUK": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/image_2025-09-25_005447223-removebg-preview.png",
-            "mobile_icon_width": 40,
-            "icon_width": 60,
-            "icon_background_type": "circle",
-            "icon_background": "#a8b7c6",
-            "icon_color": "",
-            "title": "livraison gratuit",
-            "content": ""
-          }
-        },
-        "item_FAnt97": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/image_2025-09-25_005514836-removebg-preview.png",
-            "mobile_icon_width": 24,
-            "icon_width": 60,
-            "icon_background_type": "circle",
-            "icon_background": "#afb3bb",
-            "icon_color": "",
-            "title": "paiement sécurise",
-            "content": ""
-          }
-        },
-        "item_rfz8W4": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/image_2025-09-25_005416847-removebg-preview.png",
-            "mobile_icon_width": 24,
-            "icon_width": 60,
-            "icon_background_type": "circle",
-            "icon_background": "#afb3bb",
-            "icon_color": "#f0f0f0",
-            "title": "service client 7J/7",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_wBJrUK",
-        "item_FAnt97",
-        "item_rfz8W4"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -785,9 +656,7 @@
     "image_with_text_overlay_meihwA",
     "tabs_gqGQNG",
     "multi_column_HCgaaV",
-    "image_with_text_overlay_C7TGnj",
     "faq_fDjbh8",
-    "contact_qfHycn",
-    "text_with_icons_gqXyiX"
+    "contact_ccmg6G"
   ]
 }

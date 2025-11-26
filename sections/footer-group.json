@@ -21,27 +21,17 @@
             "show_menu_title": true
           }
         },
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "inscrivez vous pour voir nos offres et nos actualités",
-            "content": ""
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
             "title": "Nous contacter",
             "content": "<p>service client: suppinsola2000@gmail.com<br/></p><p>Tout les jours aux horaires suivants: Du lundi au vendredi de 9h à 12h puis de 14h à 18h et le week-end de 10h à 12h puis de 14h à 16h<br/><br/></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
         "links_8UM8zi",
-        "newsletter",
         "text"
       ],
       "settings": {
