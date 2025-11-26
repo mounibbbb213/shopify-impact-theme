@@ -234,7 +234,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"image-inline-wrapper\" style=\"display:inline-block; vertical-align:middle;\">\n  <img\n    src=\"{{ 'ECXELLENT.avif' | asset_url }}\"\n    alt=\"Image\"\n    loading=\"lazy\"\n    style=\"\n      max-width:100%;\n      height:auto;\n      display:inline-block;\n    \"\n  >\n</div>",
+        "liquid": "<img\n  src=\"https://cdn.shopify.com/s/files/1/0967/7399/6875/files/ECXELLENT.avif?v=1764118927\"\n  alt=\"ECXELLENT\"\n  loading=\"lazy\"\n  style=\"\n    max-width:100%;\n    height:auto;\n    display:inline-block;\n    vertical-align:middle;\n  \"\n>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
