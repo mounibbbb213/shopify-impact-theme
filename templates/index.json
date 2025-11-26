@@ -9,6 +9,36 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_jCkV8T": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_2025-11-26_220742596.png",
+        "mobile_image": "shopify://shop_images/image_2025-11-26_220526521.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#f0f0f0",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_LkNTPV": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<img\n  src=\"https://cdn.shopify.com/s/files/1/0967/7399/6875/files/ECXELLENT.avif?v=1764118927\"\n  alt=\"ECXELLENT\"\n  loading=\"lazy\"\n  style=\"\n    max-width:110%;\n    height:auto;\n    display:inline-block;\n    vertical-align:middle;\n  \"\n>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_F8e6kf": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -17,8 +47,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_1.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre_1.png",
+        "image": "shopify://shop_images/Copie_de_Sans_titre_5.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Sans_titre_5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#f0f0f0",
@@ -269,10 +299,36 @@
             "link_style": "link"
           }
         },
+        "item_e9eJgn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_21a1fe05-8b6e-481d-944d-0bb022dbe000.png",
+            "column_size": "3",
+            "title": "Élodie, 31 ans, maman active",
+            "heading_tag": "h5",
+            "content": "<p>« J’avais peur que le porte-bébé ergonomique Insola soit trop encombrant pour mes sorties du quotidien, mais finalement il est ultra léger et simple à enfiler. Je le mets en quelques gestes avant de partir. Mon petit adore être bien installé contre moi, et je sens vraiment la différence au niveau du dos. Un vrai allié pour mes journées bien remplies ! »<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_nmqMGL": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_8_1.png",
+            "column_size": "3",
+            "title": "Claire, 37 ans, maman active",
+            "heading_tag": "h5",
+            "content": "<p>« J’utilise ce porte-bébé tous les jours pour aller chercher ma fille à l’école avec mon petit dernier. Je me sens vraiment à l’aise et mon bébé est tout contre moi, rassuré. C’est devenu un indispensable »<br/><br/><br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hVi3Xk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_1_892684fd-b401-4262-996c-e0ee33521d44.png",
             "column_size": "3",
             "title": "Claire, 37 ans, maman active",
             "heading_tag": "h5",
@@ -286,7 +342,9 @@
       "block_order": [
         "item_XEUYqg",
         "item_KCyGHV",
-        "item_nmqMGL"
+        "item_e9eJgn",
+        "item_nmqMGL",
+        "item_hVi3Xk"
       ],
       "name": "Multi-column",
       "settings": {
@@ -662,6 +720,8 @@
     }
   },
   "order": [
+    "image_with_text_overlay_jCkV8T",
+    "custom_liquid_LkNTPV",
     "image_with_text_overlay_F8e6kf",
     "logo_list_LNtxzi",
     "rich_text_kgcmgN",
