@@ -361,6 +361,14 @@
         "pickup_availability_QRP34h": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_GyQwzq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-09-22_221359410.png",
+            "alignment": "start",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -373,7 +381,8 @@
         "separator_PPExAH",
         "quantity_selector_CrMEDK",
         "buy_buttons_TMjTxn",
-        "pickup_availability_QRP34h"
+        "pickup_availability_QRP34h",
+        "image_GyQwzq"
       ],
       "name": "Featured product",
       "settings": {
