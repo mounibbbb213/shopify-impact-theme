@@ -419,6 +419,14 @@
             "page": ""
           }
         },
+        "tab_zBUeMN": {
+          "type": "tab",
+          "settings": {
+            "title": "30 Jours Satisfait ou Remboursé",
+            "content": "<p>Essayer le porte bébé INSOLA sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfait vous avez la possibilité de le retourner et <strong>vous recevrez un REMBOURSEMENT INTEGRAL</strong>.</p>",
+            "page": ""
+          }
+        },
         "tab_rrrhwN": {
           "type": "tab",
           "settings": {
@@ -434,21 +442,13 @@
             "content": "<p>La livraison à domicile est offerte. Le délai d'expédition varie de 24h à 48h et la livraison est estimé entre 4 à 5 jours ouvrés.</p>",
             "page": ""
           }
-        },
-        "tab_zBUeMN": {
-          "type": "tab",
-          "settings": {
-            "title": "30 Jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le porte bébé INSOLA sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfait vous avez la possibilité de le retourner et <strong>vous recevrez un REMBOURSEMENT INTEGRAL</strong>.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "tab_gedf4w",
+        "tab_zBUeMN",
         "tab_rrrhwN",
-        "tab_czC9EC",
-        "tab_zBUeMN"
+        "tab_czC9EC"
       ],
       "name": "Tabs",
       "settings": {
