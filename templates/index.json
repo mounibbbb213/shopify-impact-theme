@@ -362,20 +362,20 @@
           "type": "pickup_availability",
           "settings": {}
         },
-        "image_GyQwzq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-09-22_221359410.png",
-            "alignment": "start",
-            "max_width": 500
-          }
-        },
         "image_7AEUL3": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_2025-11-26_191733367.png",
             "alignment": "start",
             "max_width": 500
+          }
+        },
+        "image_GyQwzq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-11-26_194618144.png",
+            "alignment": "center",
+            "max_width": 450
           }
         }
       },
@@ -390,8 +390,8 @@
         "quantity_selector_CrMEDK",
         "buy_buttons_TMjTxn",
         "pickup_availability_QRP34h",
-        "image_GyQwzq",
-        "image_7AEUL3"
+        "image_7AEUL3",
+        "image_GyQwzq"
       ],
       "name": "Featured product",
       "settings": {
