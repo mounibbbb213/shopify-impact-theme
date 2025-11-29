@@ -439,7 +439,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_2025-11-26_191733367.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
